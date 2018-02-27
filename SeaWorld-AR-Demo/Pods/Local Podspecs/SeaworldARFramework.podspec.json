@@ -1,0 +1,39 @@
+{
+  "name": "SeaworldARFramework",
+  "version": "1.0.0",
+  "summary": "SeaworldARFramework",
+  "homepage": "https://github.com/papercloud/AOARExperience",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "cb@papercloud.com.au": "cb@papercloud.com.au"
+  },
+  "source": {
+    "git": "https://github.com/Papercloud/AOARExperience.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "ios": {
+    "dependencies": {
+      "SSZipArchive": [
+        "~> 1.6.2"
+      ],
+      "SCNVideoWriter": [
+
+      ],
+      "Result": [
+
+      ],
+      "Spine": [
+
+      ]
+    },
+    "vendored_frameworks": [
+      "BswarmFramework.framework",
+      "SeaworldARFramework.framework"
+    ]
+  }
+}

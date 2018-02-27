@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.19" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.16"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="ProximaNova-Bold.otf">
+            <string>ProximaNova-Bold</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HMT-9s-kTV">
+                                <rect key="frame" x="0.0" y="20" width="375" height="287.5"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="exI-tT-YCX">
+                                        <rect key="frame" x="81.5" y="84" width="212.5" height="120"/>
+                                        <subviews>
+                                            <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo_Seaworld" translatesAutoresizingMaskIntoConstraints="NO" id="Lt4-hU-xle">
+                                                <rect key="frame" x="0.0" y="0.0" width="212.5" height="71"/>
+                                            </imageView>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="AR PROTOTYPE" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6eE-21-U8f">
+                                                <rect key="frame" x="0.0" y="91" width="212.5" height="29"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Bold" family="Proxima Nova" pointSize="29"/>
+                                                <color key="textColor" red="0.30980392156862746" green="0.63921568627450975" blue="0.96078431372549022" alpha="1" colorSpace="calibratedRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <constraints>
+                                            <constraint firstItem="6eE-21-U8f" firstAttribute="leading" secondItem="exI-tT-YCX" secondAttribute="leading" id="Amx-vU-XCP"/>
+                                            <constraint firstAttribute="trailing" secondItem="6eE-21-U8f" secondAttribute="trailing" id="Es5-of-Smz"/>
+                                            <constraint firstItem="Lt4-hU-xle" firstAttribute="leading" secondItem="exI-tT-YCX" secondAttribute="leading" id="HL9-ew-U7d"/>
+                                            <constraint firstItem="Lt4-hU-xle" firstAttribute="top" secondItem="exI-tT-YCX" secondAttribute="top" id="Tu8-5w-MA4"/>
+                                            <constraint firstAttribute="trailing" secondItem="Lt4-hU-xle" secondAttribute="trailing" id="Z2R-eY-74x"/>
+                                            <constraint firstItem="6eE-21-U8f" firstAttribute="top" secondItem="Lt4-hU-xle" secondAttribute="bottom" constant="20" id="ccO-zT-oGW"/>
+                                            <constraint firstAttribute="bottom" secondItem="6eE-21-U8f" secondAttribute="bottom" id="sDI-af-2Me"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="exI-tT-YCX" firstAttribute="centerY" secondItem="HMT-9s-kTV" secondAttribute="centerY" id="j9V-uZ-Zfm"/>
+                                    <constraint firstItem="exI-tT-YCX" firstAttribute="centerX" secondItem="HMT-9s-kTV" secondAttribute="centerX" id="nHv-df-2cm"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Fcg-cl-ifa">
+                                <rect key="frame" x="0.0" y="307.5" width="375" height="359.5"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon-ocean" translatesAutoresizingMaskIntoConstraints="NO" id="Tj2-ll-L31">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="359.5"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon-powered-by" translatesAutoresizingMaskIntoConstraints="NO" id="ck1-dR-77a">
+                                        <rect key="frame" x="155.5" y="286" width="63" height="58"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="ck1-dR-77a" firstAttribute="centerX" secondItem="Fcg-cl-ifa" secondAttribute="centerX" id="Kcu-0f-uVn"/>
+                                    <constraint firstItem="Tj2-ll-L31" firstAttribute="leading" secondItem="Fcg-cl-ifa" secondAttribute="leading" id="MmV-FV-bJU"/>
+                                    <constraint firstAttribute="trailing" secondItem="Tj2-ll-L31" secondAttribute="trailing" id="Tzc-jl-MIh"/>
+                                    <constraint firstItem="Tj2-ll-L31" firstAttribute="top" secondItem="Fcg-cl-ifa" secondAttribute="top" id="hVc-vY-9Bp"/>
+                                    <constraint firstAttribute="bottom" secondItem="Tj2-ll-L31" secondAttribute="bottom" id="xPX-g2-6E6"/>
+                                    <constraint firstAttribute="bottom" secondItem="ck1-dR-77a" secondAttribute="bottom" constant="16" id="zZt-qZ-k5c"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="HMT-9s-kTV" secondAttribute="trailing" id="50x-dA-xbv"/>
+                            <constraint firstItem="HMT-9s-kTV" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Eug-rE-Szz"/>
+                            <constraint firstItem="Fcg-cl-ifa" firstAttribute="top" secondItem="HMT-9s-kTV" secondAttribute="bottom" id="NeG-GY-aRx"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="Fcg-cl-ifa" secondAttribute="bottom" id="UlS-bk-zf4"/>
+                            <constraint firstItem="Fcg-cl-ifa" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="WlY-lL-QZj"/>
+                            <constraint firstItem="HMT-9s-kTV" firstAttribute="height" secondItem="Fcg-cl-ifa" secondAttribute="height" multiplier="0.8" id="ecO-1U-9fp"/>
+                            <constraint firstItem="HMT-9s-kTV" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" id="f01-1M-zNQ"/>
+                            <constraint firstAttribute="trailing" secondItem="Fcg-cl-ifa" secondAttribute="trailing" id="hjA-Jy-f56"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="icon-ocean" width="320" height="315"/>
+        <image name="icon-powered-by" width="63" height="58"/>
+        <image name="logo_Seaworld" width="165" height="71"/>
+    </resources>
+</document>

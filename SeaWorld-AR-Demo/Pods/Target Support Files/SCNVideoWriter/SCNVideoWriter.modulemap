@@ -1,0 +1,6 @@
+framework module SCNVideoWriter {
+  umbrella header "SCNVideoWriter-umbrella.h"
+
+  export *
+  module * { export * }
+}

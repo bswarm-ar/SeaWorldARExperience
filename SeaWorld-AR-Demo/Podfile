@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SeaWorld-AR-Demo' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SeaWorld-AR-Demo
+  pod 'SCNVideoWriter', :git => 'https://github.com/Papercloud/SCNVideoWriter.git'
+  pod 'Spine', :git => 'https://github.com/Papercloud/Spine.git'
+  pod 'SeaworldARFramework', path: '../SeaworldARFramework.podspec'
+end
+
+post_install do |installer|
+    # Temporary workaround for old pods - whilst CocoaPods 1.4.0 has support for Swift-Versions
+    installer.pods_project.targets.each do |target|
+        if ['Spine', 'BrightFutures'].include? target.name
+            target.build_configurations.each do |config|
+                config.build_settings['SWIFT_VERSION'] = '3.2'
+            end
+        end
+    end
+end

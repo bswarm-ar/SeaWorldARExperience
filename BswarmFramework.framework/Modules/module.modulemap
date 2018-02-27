@@ -1,0 +1,11 @@
+framework module BswarmFramework {
+  umbrella header "BswarmFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module BswarmFramework.Swift {
+    header "BswarmFramework-Swift.h"
+    requires objc
+}

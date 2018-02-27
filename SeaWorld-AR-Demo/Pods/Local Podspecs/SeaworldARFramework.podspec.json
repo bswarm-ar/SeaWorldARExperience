@@ -2,7 +2,7 @@
   "name": "SeaworldARFramework",
   "version": "1.0.0",
   "summary": "SeaworldARFramework",
-  "homepage": "https://github.com/papercloud/AOARExperience",
+  "homepage": "https://github.com/papercloud/SeaWorldARExperience",
   "license": {
     "type": "MIT"
   },
@@ -10,7 +10,7 @@
     "cb@papercloud.com.au": "cb@papercloud.com.au"
   },
   "source": {
-    "git": "https://github.com/Papercloud/AOARExperience.git",
+    "git": "https://github.com/Papercloud/SeaWorldARExperience.git",
     "tag": "1.0.0"
   },
   "platforms": {

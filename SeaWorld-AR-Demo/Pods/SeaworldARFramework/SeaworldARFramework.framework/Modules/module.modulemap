@@ -1,0 +1,11 @@
+framework module SeaworldARFramework {
+  umbrella header "SeaworldARFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SeaworldARFramework.Swift {
+    header "SeaworldARFramework-Swift.h"
+    requires objc
+}

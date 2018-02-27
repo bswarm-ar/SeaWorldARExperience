@@ -8,7 +8,7 @@ target 'SeaWorld-AR-Demo' do
   # Pods for SeaWorld-AR-Demo
   pod 'SCNVideoWriter', :git => 'https://github.com/Papercloud/SCNVideoWriter.git'
   pod 'Spine', :git => 'https://github.com/Papercloud/Spine.git'
-  pod 'SeaworldARFramework', path: '../SeaworldARFramework.podspec'
+  pod 'SeaworldARFramework', :git => 'https://github.com/Papercloud/SeaWorldARExperience.git'
 end
 
 post_install do |installer|

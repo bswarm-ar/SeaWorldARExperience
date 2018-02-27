@@ -7,107 +7,107 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		01B90162C22766260052B5804D709DE2 /* aestab.c in Sources */ = {isa = PBXBuildFile; fileRef = DA4921569C07EEF1542D1931B2BFF344 /* aestab.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		022E4F514A2A0B20AD41E2E71802C4B6 /* Result-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 24639A6C160D9B10B30616D6A89CE242 /* Result-dummy.m */; };
+		01B90162C22766260052B5804D709DE2 /* aestab.c in Sources */ = {isa = PBXBuildFile; fileRef = 666F804AD5AEDD58F54AC9EA55DC4D5A /* aestab.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		022E4F514A2A0B20AD41E2E71802C4B6 /* Result-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DBDFD0DD369826E573B8A969616F451 /* Result-dummy.m */; };
 		02554C1E9E787664E30B41F99E2AECA1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */; };
-		03A121CFE13FFEA740F9C55D15BB74C2 /* SequenceType+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2295AE8C2352451D5CD9778EC2038F19 /* SequenceType+BrightFutures.swift */; };
-		03F2055ACEB1ADD00EED7EB7A05CF464 /* sha1.c in Sources */ = {isa = PBXBuildFile; fileRef = 988265419562EF104E0F9F3FCBF29938 /* sha1.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		0457A1C9FE3AE4576BE286D9F8C49F93 /* NSOperationQueue+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 387277A6CF82A554236D4F9896F74E8C /* NSOperationQueue+BrightFutures.swift */; };
-		0BA55E7E485DC22BE20A5EBC8B710291 /* aeskey.c in Sources */ = {isa = PBXBuildFile; fileRef = FED32E60D67B74D91924CE29F1CE9223 /* aeskey.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		0FA03536E24616315D2C569406193CAB /* Serializing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED239AF6A0382FE733ED3306F7160DC /* Serializing.swift */; };
-		15F801282F3290E37F11D67056162741 /* Number+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9E86DAC32E67FBE4CAB753B516A58A /* Number+BrightFutures.swift */; };
-		1C0871CDE548ACA1D80E16CE2CD224A3 /* aes.h in Headers */ = {isa = PBXBuildFile; fileRef = A2B78C3918FDC7FD9A9690462841E1DA /* aes.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		1C244CC2D1FB03CDC1519D961983816D /* brg_types.h in Headers */ = {isa = PBXBuildFile; fileRef = D56DC8E67A8E34F898C46EDF5F170029 /* brg_types.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		1D09397B9B6F32408C40509E8BA3B3B5 /* AsyncType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4EE66D2EA14A37CD369B7F43A63B391 /* AsyncType.swift */; };
-		2244F884A18E3F9BFF659C460C1C1F97 /* AsyncType+ResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636DE37D6D95E022090630DF23B237FB /* AsyncType+ResultType.swift */; };
-		27B191507328D23A88AEE4CB95C839CB /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44477072126D944E67C3A7DE3C3E83CE /* Error.swift */; };
-		2827150EBF7177EE68EEAE05CB9D444A /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = BAE7C002F986F51A74F3D63A725B8D0C /* ioapi.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		2CFDDCEA7F30B780EDE5338B7C929358 /* Options.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E45C7825BA5AB64505064838AAC95B8 /* Options.swift */; };
-		3344E01AC18DA309FA8DA5A17DC7CFCF /* crypt.h in Headers */ = {isa = PBXBuildFile; fileRef = 90BB4E749BB837E28F4FC3F39FB28CBD /* crypt.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		03A121CFE13FFEA740F9C55D15BB74C2 /* SequenceType+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A03DE9F1D7FB085E8208654CFCF76B3 /* SequenceType+BrightFutures.swift */; };
+		03F2055ACEB1ADD00EED7EB7A05CF464 /* sha1.c in Sources */ = {isa = PBXBuildFile; fileRef = 4043A0795572BB0E978907451FC93BD0 /* sha1.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		0457A1C9FE3AE4576BE286D9F8C49F93 /* NSOperationQueue+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7994ED6206D4269EE12E374935D3A72 /* NSOperationQueue+BrightFutures.swift */; };
+		0BA55E7E485DC22BE20A5EBC8B710291 /* aeskey.c in Sources */ = {isa = PBXBuildFile; fileRef = 96782C3896BC222275B8A4B9D92DBF29 /* aeskey.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		0FA03536E24616315D2C569406193CAB /* Serializing.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA00D69FD95AF9CB934F3840B5A2740 /* Serializing.swift */; };
+		15F801282F3290E37F11D67056162741 /* Number+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC32F9932066FC96EAA38FC344E7ACC3 /* Number+BrightFutures.swift */; };
+		1C0871CDE548ACA1D80E16CE2CD224A3 /* aes.h in Headers */ = {isa = PBXBuildFile; fileRef = A267D74C7F1BBFFFCFE2DF9DC0175303 /* aes.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1C244CC2D1FB03CDC1519D961983816D /* brg_types.h in Headers */ = {isa = PBXBuildFile; fileRef = 6AE1F9F96325F66180AD3BDCE28BCC9A /* brg_types.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1D09397B9B6F32408C40509E8BA3B3B5 /* AsyncType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D48BE13CA10A41F0FAE7C501C713EE0 /* AsyncType.swift */; };
+		2244F884A18E3F9BFF659C460C1C1F97 /* AsyncType+ResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95AACB05235B8FEEF92A35FA8979756A /* AsyncType+ResultType.swift */; };
+		27B191507328D23A88AEE4CB95C839CB /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC4AB9DE6166A9AE07C81C276C3C330 /* Error.swift */; };
+		2827150EBF7177EE68EEAE05CB9D444A /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = FB2E2E7C1F07A728ACF42D6EBDD7F714 /* ioapi.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		2CFDDCEA7F30B780EDE5338B7C929358 /* Options.swift in Sources */ = {isa = PBXBuildFile; fileRef = 856BBE71BD660904781D558549F6DA0A /* Options.swift */; };
+		3344E01AC18DA309FA8DA5A17DC7CFCF /* crypt.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FD9C9CFB0B9D1F02B197F4BC9C7E456 /* crypt.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		33CF2985BC83A54ECFD867466354D3DC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */; };
-		34293F0EB6EDE44D7409DE165F6AA794 /* aesopt.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F6F8DA41E0FCAD35D3E90ABDD114CCC /* aesopt.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		34293F0EB6EDE44D7409DE165F6AA794 /* aesopt.h in Headers */ = {isa = PBXBuildFile; fileRef = 9912394F97755A0CB18978ACC2BA64AE /* aesopt.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		34F4283419914A0F46C63972229F871E /* Pods-SeaWorld-AR-Demo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6794AAF4E2B1666C68C51BDFF155B834 /* Pods-SeaWorld-AR-Demo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		36B858FB2219E4BE9D6FE8E16F78F76F /* SSZipCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B6BA27F4D241013CFB6BF6FF9102C3C /* SSZipCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3AE9841E3C1955B9068031ECE6F26B82 /* aestab.h in Headers */ = {isa = PBXBuildFile; fileRef = 2BA1421F4AAF4415D271BE68D9D38B9C /* aestab.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3B1C580DC5E9FA727AC190B175D1CBBB /* Spine-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EEBA230163B2ABE7893156808E533945 /* Spine-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36B858FB2219E4BE9D6FE8E16F78F76F /* SSZipCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = E19C3680100BEE7072955D952DBAD2A9 /* SSZipCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3AE9841E3C1955B9068031ECE6F26B82 /* aestab.h in Headers */ = {isa = PBXBuildFile; fileRef = 00AC20C640B38456F80A41C832AB2724 /* aestab.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		3B1C580DC5E9FA727AC190B175D1CBBB /* Spine-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4437A33C4795619619DF58C30366C7F1 /* Spine-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3CC7CB9F62C114C909F57236D733B015 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */; };
-		3EDF485BDC3D1C67E03BAEFC70672975 /* ioapi.h in Headers */ = {isa = PBXBuildFile; fileRef = DBDC26A8B8A8B7527A59EB98648F2561 /* ioapi.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3EEEE02AD5C45BACC1F9381B9DB41431 /* MutableAsyncType+ResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CE8578D93534588505ED8981843A1A5 /* MutableAsyncType+ResultType.swift */; };
-		43D220BD0F69086C64A755C99B70B567 /* FileController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E238FFEA9CCE296FB5497DD52CE3C7C /* FileController.swift */; };
-		4414FB23FAAD5915DCDEC0A5207397BA /* ZipArchive.h in Headers */ = {isa = PBXBuildFile; fileRef = B09A3A0DEB5E3F9209110A2B21BDC17C /* ZipArchive.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		495C3055254AF5A66CF1D1690513AD13 /* ExecutionContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C33F74B27B099CF6E5622F4D723B02 /* ExecutionContext.swift */; };
-		4BA88411A73D95E600EF8420B7A1592D /* InvalidationToken.swift in Sources */ = {isa = PBXBuildFile; fileRef = 765A7024BFA6C8472B3141BFC617D5C1 /* InvalidationToken.swift */; };
-		4C017553F081EB3AD461EA2FD0519FC7 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E729C8DE5BE1D8425B48F1731D0C98E /* Networking.swift */; };
-		4E3E48A80BDA7EA4C6AF4E113E1C3F42 /* prng.c in Sources */ = {isa = PBXBuildFile; fileRef = 3EE4D2C7336CBAA4C03FE217C20C3794 /* prng.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		4F1ADEDE071285D254E60739F743E087 /* entropy.c in Sources */ = {isa = PBXBuildFile; fileRef = 1E4FE18169555FBDFDFAED62C20A89BF /* entropy.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		5888C725C19F3C8C43B1AEFA7917C33E /* AsyncType+Debug.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E61A8D853BD0295A52134C2D267F80A /* AsyncType+Debug.swift */; };
-		5D6D37B19D8255919F0DC5D600FD1303 /* PixelBufferFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654DFC369518D7279FA515DA26BCB3D7 /* PixelBufferFactory.swift */; };
-		6393BB2BC58B6884E24D6E8D9E153232 /* mztools.h in Headers */ = {isa = PBXBuildFile; fileRef = AA849788EC063EA49F1F437486956532 /* mztools.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		644319147A4A4D56292EDD16FEC66A4D /* Routing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B7F8B7DAACD0AC38CF780DAC043704F /* Routing.swift */; };
-		644DB88D7A1EE57B51F602D022B40DC5 /* SCNVideoWriter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 86CE175819E044326D3B0DC800BB97B0 /* SCNVideoWriter-dummy.m */; };
-		65BE89321074EBD0F6088EE0DA2B9046 /* zip.h in Headers */ = {isa = PBXBuildFile; fileRef = DFE5F7A2C81DEBE31286404D93B04884 /* zip.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		67E1D416AB227155266CBDB7A0264080 /* aes_via_ace.h in Headers */ = {isa = PBXBuildFile; fileRef = E3E488DF74984BA86FB0F3C1E4B437C9 /* aes_via_ace.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		6ACE929F009BC209879155EAC09C15FA /* Spine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1372B9D8F5AD03F42D7F5F2ACC91769F /* Spine.swift */; };
-		6BF9118008E1B267FE282BFE935564A1 /* ResourceCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953B131C397037BC1DC922EBEBF73725 /* ResourceCollection.swift */; };
-		6D91A43E587F9D2C8A6988C6932E7A12 /* ResultProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB074AECEEB5BBFCF43E2B748258021F /* ResultProtocol.swift */; };
-		6E53AF209EC8F84DB50EAB668FDB328F /* pwd2key.c in Sources */ = {isa = PBXBuildFile; fileRef = 8173E09C0938D4214445983ABCE20E7D /* pwd2key.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		73D1A9BD6361EC27A9CA9920EDAA3EBC /* entropy.h in Headers */ = {isa = PBXBuildFile; fileRef = 0EDECC9CEFACA0E34C57FEB9BA81ACE6 /* entropy.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		77217E1A9729A91F0AE9CACF00E0B9AB /* Result-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3140AD9D2DDE1043C96D1A5683E25C64 /* Result-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7A21D8CC25ABEF7740EC20CAEC3FA877 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB54C0531DF05B465F57D6A67D8A8ACE /* SwiftyJSON.swift */; };
-		7A94090F9E6E52CB38B11A328B01BA8C /* Async.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D17F61F2B67D2DF6AEB5FCD6C1BD61 /* Async.swift */; };
-		7CF0B039608762AE7F2AD7F088376FDD /* ViewVideoWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55143B921A97FAA1503DBCC932C12F01 /* ViewVideoWriter.swift */; };
-		7F739ECF54882D5D56E58596F08FB632 /* SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E3F2113DD2CEE6069C5EFC59E4C2BB25 /* SwiftyJSON-dummy.m */; };
-		8342EFEB549F12FADF5C7A2A6653C197 /* Logging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85494E9B21EE48F51F19A290E5F09330 /* Logging.swift */; };
-		8714388946A8AE96F3059BB422412FD6 /* SSZipArchive.h in Headers */ = {isa = PBXBuildFile; fileRef = 761D18EC6CD7107259F5B3A0667686CA /* SSZipArchive.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3EDF485BDC3D1C67E03BAEFC70672975 /* ioapi.h in Headers */ = {isa = PBXBuildFile; fileRef = C8869C1837B8B620CA4B8D70C6B03CDE /* ioapi.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		3EEEE02AD5C45BACC1F9381B9DB41431 /* MutableAsyncType+ResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C38A8C99ED009AAEB7115EA33CC656D /* MutableAsyncType+ResultType.swift */; };
+		43D220BD0F69086C64A755C99B70B567 /* FileController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA02BDDE928C8B45974A1AD8CF226742 /* FileController.swift */; };
+		4414FB23FAAD5915DCDEC0A5207397BA /* ZipArchive.h in Headers */ = {isa = PBXBuildFile; fileRef = CBA84FE4349D964AA144A6989026B9B4 /* ZipArchive.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		495C3055254AF5A66CF1D1690513AD13 /* ExecutionContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10147359C36EE272EA9B151EA3F2E63 /* ExecutionContext.swift */; };
+		4BA88411A73D95E600EF8420B7A1592D /* InvalidationToken.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4C92278C4AA7F508F5C8EC4E6C8410 /* InvalidationToken.swift */; };
+		4C017553F081EB3AD461EA2FD0519FC7 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247F9FE30A8688A7B6944383BC4B43BF /* Networking.swift */; };
+		4E3E48A80BDA7EA4C6AF4E113E1C3F42 /* prng.c in Sources */ = {isa = PBXBuildFile; fileRef = 72EF1DDF95745EEB5299E5A6F4AC095C /* prng.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		4F1ADEDE071285D254E60739F743E087 /* entropy.c in Sources */ = {isa = PBXBuildFile; fileRef = 82AFCB44DA0EEE2ED980C8444CC15B2E /* entropy.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		5888C725C19F3C8C43B1AEFA7917C33E /* AsyncType+Debug.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC245CC49D0EF10B44B6511246761FB /* AsyncType+Debug.swift */; };
+		5D6D37B19D8255919F0DC5D600FD1303 /* PixelBufferFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF5A27E93162E809832F6B1D0B8FCC8 /* PixelBufferFactory.swift */; };
+		6393BB2BC58B6884E24D6E8D9E153232 /* mztools.h in Headers */ = {isa = PBXBuildFile; fileRef = 58AF66EE7EC8294738EFA2C94C15707B /* mztools.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		644319147A4A4D56292EDD16FEC66A4D /* Routing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376C12F7C825C2B3923E2C966773A3CB /* Routing.swift */; };
+		644DB88D7A1EE57B51F602D022B40DC5 /* SCNVideoWriter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F0F3A8EE53D8A3C793F2F319167372 /* SCNVideoWriter-dummy.m */; };
+		65BE89321074EBD0F6088EE0DA2B9046 /* zip.h in Headers */ = {isa = PBXBuildFile; fileRef = C3407C48BFF46604039641D23F723C9B /* zip.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		67E1D416AB227155266CBDB7A0264080 /* aes_via_ace.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E35DC8C7A017C3108FBD29BA8020B1D /* aes_via_ace.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		6ACE929F009BC209879155EAC09C15FA /* Spine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C675675FD8EC0E4270A20DDDF222F1B /* Spine.swift */; };
+		6BF9118008E1B267FE282BFE935564A1 /* ResourceCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E017E5EF61721D7C16BF7884E243A2F /* ResourceCollection.swift */; };
+		6D91A43E587F9D2C8A6988C6932E7A12 /* ResultProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6B03FB29BC2EB61E2C585CD9FC821D /* ResultProtocol.swift */; };
+		6E53AF209EC8F84DB50EAB668FDB328F /* pwd2key.c in Sources */ = {isa = PBXBuildFile; fileRef = A4A7CDC33B68B87D5B656B65B557C42D /* pwd2key.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		73D1A9BD6361EC27A9CA9920EDAA3EBC /* entropy.h in Headers */ = {isa = PBXBuildFile; fileRef = 69C3E4B19F434076E972283B60A908EB /* entropy.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		77217E1A9729A91F0AE9CACF00E0B9AB /* Result-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 43DEEB2E3F42001FEDD61CC42279A87E /* Result-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7A21D8CC25ABEF7740EC20CAEC3FA877 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC70AF0DC66620347B417C96FF868592 /* SwiftyJSON.swift */; };
+		7A94090F9E6E52CB38B11A328B01BA8C /* Async.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB7B1F98F2CAB34C2F48FA2301853ED /* Async.swift */; };
+		7CF0B039608762AE7F2AD7F088376FDD /* ViewVideoWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B35C824317AEAE47D609C9B510D530 /* ViewVideoWriter.swift */; };
+		7F739ECF54882D5D56E58596F08FB632 /* SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B217E8BD4C9BEFE056F8A2F007FEB4C /* SwiftyJSON-dummy.m */; };
+		8342EFEB549F12FADF5C7A2A6653C197 /* Logging.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA41F678FFE7A362F3D81F8F63E358DB /* Logging.swift */; };
+		8714388946A8AE96F3059BB422412FD6 /* SSZipArchive.h in Headers */ = {isa = PBXBuildFile; fileRef = 751BED03B79B472EF5102643035F2A10 /* SSZipArchive.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		903C0A4B159360FEF8CE495768E1786C /* BrightFutures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F06DB9A5C7C2A9DDDCACD651436C5F37 /* BrightFutures.framework */; };
-		90D28C0331787AE73F19F7C148A2BA4D /* MutableAsyncType.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2C11EAB505F5567F499A7DC58C192D7 /* MutableAsyncType.swift */; };
-		92452814D4A9F22B6112F29FB88EA31D /* prng.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C19C552F0929193C4F782534D8DEB05 /* prng.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		93419EC732B5E52FCBEE102F1FC2F6A4 /* pwd2key.h in Headers */ = {isa = PBXBuildFile; fileRef = 5527780E080C24EE4855DD2DD532C2B2 /* pwd2key.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9470AD49D6C4E61CA0E65B523D4085B4 /* SSZipArchive-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BE8CF79600A36DBA13D33E5136946818 /* SSZipArchive-dummy.m */; };
+		90D28C0331787AE73F19F7C148A2BA4D /* MutableAsyncType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A0B32F71142A58DBBED2E10459BEBF /* MutableAsyncType.swift */; };
+		92452814D4A9F22B6112F29FB88EA31D /* prng.h in Headers */ = {isa = PBXBuildFile; fileRef = 4ECA3BF618A715FB1461B9E4B0107FD3 /* prng.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		93419EC732B5E52FCBEE102F1FC2F6A4 /* pwd2key.h in Headers */ = {isa = PBXBuildFile; fileRef = B4AB2D31DB7335CF57B066CD64E813A8 /* pwd2key.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		9470AD49D6C4E61CA0E65B523D4085B4 /* SSZipArchive-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F8FCEDFEB4315E827B16A29444E22C6 /* SSZipArchive-dummy.m */; };
 		94FE42158236D806F67FD99D22E19F49 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */; };
-		964859B824FF437D8BADB3DD72E26B69 /* Dispatch+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B823E18F98944BD437B784B42578ECD /* Dispatch+BrightFutures.swift */; };
-		9A1F766AB3A4807704610D23A9E4FB74 /* sha1.h in Headers */ = {isa = PBXBuildFile; fileRef = 170A4FB7CF09CA5AF3480A46E312678E /* sha1.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9D15C4C776F89A03C036A6BE4521B7A8 /* hmac.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D67DDAFFFCFFF82560FAE2D56717439 /* hmac.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9F6262C79DBD7F79FD9C5C5659FB2D2E /* Promise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A905CD77F8565B660095D1859214D95 /* Promise.swift */; };
-		A135A1356C03822D2195066BFD26BE8C /* hmac.c in Sources */ = {isa = PBXBuildFile; fileRef = E20FAC3A87B728CD70BF60A4ECF1A5E6 /* hmac.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		A1A0D08502175B905B209CC8188B2B2B /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = 7F585EB2FA96D6732C2BC27662E09F0A /* mztools.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		A62BD4CEE562A775FAEEF04ED1C6A367 /* UIImage+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6799AF0F5955D61C91942D5B9E3BD04 /* UIImage+Extensions.swift */; };
+		964859B824FF437D8BADB3DD72E26B69 /* Dispatch+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9B153605EC2995184B54A97D91E0E3 /* Dispatch+BrightFutures.swift */; };
+		9A1F766AB3A4807704610D23A9E4FB74 /* sha1.h in Headers */ = {isa = PBXBuildFile; fileRef = FBBCED6A6F88F8C8B0AA714D668830C7 /* sha1.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		9D15C4C776F89A03C036A6BE4521B7A8 /* hmac.h in Headers */ = {isa = PBXBuildFile; fileRef = FBD96034509FB04DF52C9173DF76510A /* hmac.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		9F6262C79DBD7F79FD9C5C5659FB2D2E /* Promise.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D2F742FD44AF23640B548EC9178A41 /* Promise.swift */; };
+		A135A1356C03822D2195066BFD26BE8C /* hmac.c in Sources */ = {isa = PBXBuildFile; fileRef = 2A5C0B4393185E26655B4E5F9C077F9C /* hmac.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		A1A0D08502175B905B209CC8188B2B2B /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = 620F2C754297C8C732A93DDB649CB126 /* mztools.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		A62BD4CEE562A775FAEEF04ED1C6A367 /* UIImage+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F6214CD55F2B8ED10D3BD92D941A2B /* UIImage+Extensions.swift */; };
 		AA4346375660EC4428EFC978C5C4D351 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D9702ADF596E9DC077F47571CBBC38A /* SwiftyJSON.framework */; };
-		AC6048FB805E7E8409B16ED5C9CBAA6F /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134F33CC70EFE8A74D1AD82823106D06 /* Errors.swift */; };
-		AE0FDE7C885991B825C488704643E215 /* fileenc.h in Headers */ = {isa = PBXBuildFile; fileRef = EFA1CB2FE9864D58EC78FB4A0A40FDCE /* fileenc.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		AC6048FB805E7E8409B16ED5C9CBAA6F /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43246EC79479067837F420302DAA394 /* Errors.swift */; };
+		AE0FDE7C885991B825C488704643E215 /* fileenc.h in Headers */ = {isa = PBXBuildFile; fileRef = A28C24676EE9C2E3834868DCF7C211E8 /* fileenc.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		AF6B9D525A81751AC59188700BB635C1 /* Pods-SeaWorld-AR-Demo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D8E9843809185F0C5F4DA971EEE5F0DD /* Pods-SeaWorld-AR-Demo-dummy.m */; };
-		AFABF6D9B958B91F10583D598ED89A62 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC908F4CA8983A65883545F2D9FF76E /* Operation.swift */; };
-		B050B15EC964DC20A071903FDF1E5ABD /* Result+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64AFFA2F6F62AB820EF3F55AFAD1B84 /* Result+BrightFutures.swift */; };
-		B3F7BD8FA58609915158CA07574D5811 /* fileenc.c in Sources */ = {isa = PBXBuildFile; fileRef = 6553BFD5F20415F9E114C44FFA1AB910 /* fileenc.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		B56CF8D1DB2BB0B5A196A44C8E538762 /* BrightFutures-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C49E0CBE8820B11E78ED513AF2C27D98 /* BrightFutures-dummy.m */; };
-		B81D80F26771D2CDC4B47AC4FB627AF4 /* SerializeOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718BFF9393BBB95C854642C0EBDF2729 /* SerializeOperation.swift */; };
-		BBDF8D3191443B236077515BD12C3FED /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = 54D3C0FACAEE6193864DC399EF0496B1 /* unzip.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		C106FA4F57A0F47919FD31C3E00EA437 /* SSZipArchive-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D91434A3F105F49A860B970C79D71F6E /* SSZipArchive-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C225988A0CCF7CD16C76C13F9EC40EF3 /* Spine-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F027E2B3B2E816C1BC752B4FFE3B15B /* Spine-dummy.m */; };
-		C54D9A9596C4432D040484D825F0943E /* unzip.h in Headers */ = {isa = PBXBuildFile; fileRef = 778B467079668FC621718DBCC1086828 /* unzip.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		AFABF6D9B958B91F10583D598ED89A62 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0EB882431BE363DDF45C4F76E9F6C2 /* Operation.swift */; };
+		B050B15EC964DC20A071903FDF1E5ABD /* Result+BrightFutures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81765EA38381E73030420B8F1C7777E0 /* Result+BrightFutures.swift */; };
+		B3F7BD8FA58609915158CA07574D5811 /* fileenc.c in Sources */ = {isa = PBXBuildFile; fileRef = 6296019523EC1B290F3104E6854CC04A /* fileenc.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		B56CF8D1DB2BB0B5A196A44C8E538762 /* BrightFutures-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A650890704BA4CCAEBFA9F3D5604EE5 /* BrightFutures-dummy.m */; };
+		B81D80F26771D2CDC4B47AC4FB627AF4 /* SerializeOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25FE3272159A1FFDEC14EDC7155B26F1 /* SerializeOperation.swift */; };
+		BBDF8D3191443B236077515BD12C3FED /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = 2008FBCB1EB319629FE98B4433E28009 /* unzip.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		C106FA4F57A0F47919FD31C3E00EA437 /* SSZipArchive-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 74593E360A5013BC947C11EBFD1FA359 /* SSZipArchive-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C225988A0CCF7CD16C76C13F9EC40EF3 /* Spine-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 98C5CCEA29AD9538FF8F281CA6E6473B /* Spine-dummy.m */; };
+		C54D9A9596C4432D040484D825F0943E /* unzip.h in Headers */ = {isa = PBXBuildFile; fileRef = 512A5CB364AEA49DC0600EAAE5092A77 /* unzip.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		CB6406F235AE0E8C1D2FB1AE44970CB5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */; };
-		CC754615E527DF480660C10C6846C5D6 /* ResourceFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F250E0D960D56740C98E5C1BB8682A4 /* ResourceFactory.swift */; };
-		CEDF3791735DA56A1AEE22B2D7DAFFCF /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = 8338DB31833549D8C9F5A62BC03E48D2 /* SSZipArchive.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		CF1EC67840240924AF7B84DD1ADD024C /* SCNVideoWriter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 86A10206775D6CF797FF50A8DDFFC0CF /* SCNVideoWriter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CF93DF6B4E461A13E15F0E1ED327A3A1 /* KeyFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCFF3A927A210499002E2BBDF8050B5 /* KeyFormatter.swift */; };
+		CC754615E527DF480660C10C6846C5D6 /* ResourceFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = A331662D35AECFC05F555EB0540E4156 /* ResourceFactory.swift */; };
+		CEDF3791735DA56A1AEE22B2D7DAFFCF /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F09662B34ABF236B04B599CE88EF95 /* SSZipArchive.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		CF1EC67840240924AF7B84DD1ADD024C /* SCNVideoWriter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BE0B3F69E87171D1815CB4FA15F106E7 /* SCNVideoWriter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CF93DF6B4E461A13E15F0E1ED327A3A1 /* KeyFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF46B0473E22F10237948BD0B945ACF /* KeyFormatter.swift */; };
 		D14B6AF3C36FC2E8EAF2EB428418E5D5 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7D47A38E80967EC9848FF290845240B /* Result.framework */; };
-		D46E364AE963C7ED66804A3051641CFE /* ValueFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76E53172D48D1B32E037F573FED70C1 /* ValueFormatter.swift */; };
-		D499630C42A1BC53E7BE2D1EE20819B9 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766468A2A82DBFCCD3B76DEB8063086C /* Result.swift */; };
-		D502FED07D8D4BED8F7D76723A7785F6 /* Resource.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14F3CAE910C6389BE35FC946F7FEA93 /* Resource.swift */; };
-		D52CF8BA6223E3C91F1DFF18100BA0C6 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = 7CDDFC59B99A07EA11AD98D273AA569C /* zip.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		D6E55EDC67B4781EA62F611CD2FA76F8 /* aescrypt.c in Sources */ = {isa = PBXBuildFile; fileRef = 8192D9B97D4AD4DA44E09BE8360BB094 /* aescrypt.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		D88642295E1FB6EB5FB22B2ABBA6F284 /* BrightFutures-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F4243EE30EC5AA6226FA0209623F4E2B /* BrightFutures-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D46E364AE963C7ED66804A3051641CFE /* ValueFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9A9CA2833365C44F12004A9CDEFF4 /* ValueFormatter.swift */; };
+		D499630C42A1BC53E7BE2D1EE20819B9 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C65850C223442B63904DBDEA66263C3 /* Result.swift */; };
+		D502FED07D8D4BED8F7D76723A7785F6 /* Resource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA3DC8CF0E2ED30F70201758BAF293B /* Resource.swift */; };
+		D52CF8BA6223E3C91F1DFF18100BA0C6 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = D31ECAC669D969A96167B01CE2AF5249 /* zip.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		D6E55EDC67B4781EA62F611CD2FA76F8 /* aescrypt.c in Sources */ = {isa = PBXBuildFile; fileRef = EC6C48A9324ED7E58BD88687716E4362 /* aescrypt.c */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		D88642295E1FB6EB5FB22B2ABBA6F284 /* BrightFutures-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B420153C45E1BAA8D882EA495C3DAFEA /* BrightFutures-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB957CF3626D63BFB95E3E628256B744 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */; };
 		E61D64E6B50BE1C022A59373B105ACC6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */; };
-		E9AEDDA03555D0476AC09CBAB9A4DCE5 /* Query.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87715900825FDE6417AFFAD625FBD25 /* Query.swift */; };
-		EA8048E67C8426F0E8141FBB7D38BDFC /* ResourceField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967304AEC361FD6E5ACACDE91950B7F0 /* ResourceField.swift */; };
-		ED41DBBC9FE386B58C81870210D3C114 /* brg_endian.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B0994798334B8FB9350CCD2B5394E95 /* brg_endian.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		F28FFD679440F582FA473A1E816262E4 /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88ADE5B16FB86DFDB27505233A6DED4 /* Errors.swift */; };
-		F3BB3F7776DB5B8E17B6006A86218E4A /* SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8BA3B909CB64F0AA68ED1B771986F415 /* SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FDB119929D5E5BD0EF775804409D5F97 /* SCNVideoWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E54E2F0A1933C3025D94D720261C47 /* SCNVideoWriter.swift */; };
+		E9AEDDA03555D0476AC09CBAB9A4DCE5 /* Query.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C5EAD1BD500555A391E74D35E77DCB /* Query.swift */; };
+		EA8048E67C8426F0E8141FBB7D38BDFC /* ResourceField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECCE8792594EE6242310F70E6DEFBE3 /* ResourceField.swift */; };
+		ED41DBBC9FE386B58C81870210D3C114 /* brg_endian.h in Headers */ = {isa = PBXBuildFile; fileRef = 53ACB78CC56DDBBB7DD065CF48AE605F /* brg_endian.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F28FFD679440F582FA473A1E816262E4 /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2EC69322FF48FA3D95146EA773956FA /* Errors.swift */; };
+		F3BB3F7776DB5B8E17B6006A86218E4A /* SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E1CA2DF03002787C18D2F5C303C7AE22 /* SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FDB119929D5E5BD0EF775804409D5F97 /* SCNVideoWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9A2347D0C9B7733C1BE46A9716AAA8 /* SCNVideoWriter.swift */; };
 		FDD7C0AAC87A8775438C43BC31B67A96 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7D47A38E80967EC9848FF290845240B /* Result.framework */; };
-		FE8D3453439DBDFE2CBF21EB067CFF47 /* DeserializeOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72C2D2DD984147E11672AE7F17882BF /* DeserializeOperation.swift */; };
-		FF6B85305A1A7402CD4ECA474A25D080 /* Future.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87752EA74B36AEBC5219DF4A7E889005 /* Future.swift */; };
+		FE8D3453439DBDFE2CBF21EB067CFF47 /* DeserializeOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A71DDE5951EB6BC01D9138DBA9F1BF1 /* DeserializeOperation.swift */; };
+		FF6B85305A1A7402CD4ECA474A25D080 /* Future.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91B4E61DFA3AB149635D2AFC9074696 /* Future.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -184,142 +184,142 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		00AC20C640B38456F80A41C832AB2724 /* aestab.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aestab.h; path = SSZipArchive/aes/aestab.h; sourceTree = "<group>"; };
 		06EDA2398805F12957B2822441A1841D /* Pods-SeaWorld-AR-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SeaWorld-AR-Demo.debug.xcconfig"; sourceTree = "<group>"; };
-		0A905CD77F8565B660095D1859214D95 /* Promise.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Promise.swift; path = Sources/BrightFutures/Promise.swift; sourceTree = "<group>"; };
-		0AFE2E441269BE67FD9F3BF6417D7E65 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0D47C089F65EE637C33AEDD325F041E3 /* SSZipArchive-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSZipArchive-prefix.pch"; sourceTree = "<group>"; };
+		0A93E458BA2691A945CF310AB42FFE46 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BFEF653D7BEBE7E80CA83E7625B54BC /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
 		0D9702ADF596E9DC077F47571CBBC38A /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0EDECC9CEFACA0E34C57FEB9BA81ACE6 /* entropy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = entropy.h; path = SSZipArchive/aes/entropy.h; sourceTree = "<group>"; };
-		134F33CC70EFE8A74D1AD82823106D06 /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = Spine/Errors.swift; sourceTree = "<group>"; };
-		1372B9D8F5AD03F42D7F5F2ACC91769F /* Spine.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Spine.swift; path = Spine/Spine.swift; sourceTree = "<group>"; };
-		170A4FB7CF09CA5AF3480A46E312678E /* sha1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = sha1.h; path = SSZipArchive/aes/sha1.h; sourceTree = "<group>"; };
-		19362BBC512205BB57601B0790C2EFF1 /* BrightFutures.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BrightFutures.xcconfig; sourceTree = "<group>"; };
-		1E4FE18169555FBDFDFAED62C20A89BF /* entropy.c */ = {isa = PBXFileReference; includeInIndex = 1; name = entropy.c; path = SSZipArchive/aes/entropy.c; sourceTree = "<group>"; };
+		0F14D19445682315546AD4787F77269E /* Spine-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Spine-prefix.pch"; sourceTree = "<group>"; };
+		0FD9C9CFB0B9D1F02B197F4BC9C7E456 /* crypt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = crypt.h; path = SSZipArchive/minizip/crypt.h; sourceTree = "<group>"; };
+		18C5EAD1BD500555A391E74D35E77DCB /* Query.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Query.swift; path = Spine/Query.swift; sourceTree = "<group>"; };
+		1D6B03FB29BC2EB61E2C585CD9FC821D /* ResultProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResultProtocol.swift; path = Result/ResultProtocol.swift; sourceTree = "<group>"; };
+		1DBDFD0DD369826E573B8A969616F451 /* Result-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Result-dummy.m"; sourceTree = "<group>"; };
+		1E017E5EF61721D7C16BF7884E243A2F /* ResourceCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResourceCollection.swift; path = Spine/ResourceCollection.swift; sourceTree = "<group>"; };
+		2008FBCB1EB319629FE98B4433E28009 /* unzip.c */ = {isa = PBXFileReference; includeInIndex = 1; name = unzip.c; path = SSZipArchive/minizip/unzip.c; sourceTree = "<group>"; };
 		20731DD8788D5D78AD687196577C1040 /* Pods_SeaWorld_AR_Demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SeaWorld_AR_Demo.framework; path = "Pods-SeaWorld-AR-Demo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2295AE8C2352451D5CD9778EC2038F19 /* SequenceType+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "SequenceType+BrightFutures.swift"; path = "Sources/BrightFutures/SequenceType+BrightFutures.swift"; sourceTree = "<group>"; };
-		24639A6C160D9B10B30616D6A89CE242 /* Result-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Result-dummy.m"; sourceTree = "<group>"; };
-		24EDBD263F7CEC810D398BFC9C3C6CCC /* SeaworldARFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SeaworldARFramework.framework; sourceTree = "<group>"; };
-		29224B29338A7CC4E564311FD7996065 /* Spine-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Spine-prefix.pch"; sourceTree = "<group>"; };
-		2A1614FB1F71394A38F1F4170FDCE918 /* Result-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Result-prefix.pch"; sourceTree = "<group>"; };
-		2B61163692F9A20D2954A1BDC62FFDCE /* SCNVideoWriter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SCNVideoWriter-prefix.pch"; sourceTree = "<group>"; };
-		2B823E18F98944BD437B784B42578ECD /* Dispatch+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Dispatch+BrightFutures.swift"; path = "Sources/BrightFutures/Dispatch+BrightFutures.swift"; sourceTree = "<group>"; };
-		2BA1421F4AAF4415D271BE68D9D38B9C /* aestab.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aestab.h; path = SSZipArchive/aes/aestab.h; sourceTree = "<group>"; };
-		2C19C552F0929193C4F782534D8DEB05 /* prng.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = prng.h; path = SSZipArchive/aes/prng.h; sourceTree = "<group>"; };
-		2E61A8D853BD0295A52134C2D267F80A /* AsyncType+Debug.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AsyncType+Debug.swift"; path = "Sources/BrightFutures/AsyncType+Debug.swift"; sourceTree = "<group>"; };
-		3140AD9D2DDE1043C96D1A5683E25C64 /* Result-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Result-umbrella.h"; sourceTree = "<group>"; };
-		387277A6CF82A554236D4F9896F74E8C /* NSOperationQueue+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSOperationQueue+BrightFutures.swift"; path = "Sources/BrightFutures/NSOperationQueue+BrightFutures.swift"; sourceTree = "<group>"; };
-		3ACA69D7D89FBADCF991EAC37C9FA9CB /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
-		3E238FFEA9CCE296FB5497DD52CE3C7C /* FileController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FileController.swift; path = SCNVideoWriter/Classes/FileController.swift; sourceTree = "<group>"; };
-		3EE4D2C7336CBAA4C03FE217C20C3794 /* prng.c */ = {isa = PBXFileReference; includeInIndex = 1; name = prng.c; path = SSZipArchive/aes/prng.c; sourceTree = "<group>"; };
-		3F250E0D960D56740C98E5C1BB8682A4 /* ResourceFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResourceFactory.swift; path = Spine/ResourceFactory.swift; sourceTree = "<group>"; };
-		44477072126D944E67C3A7DE3C3E83CE /* Error.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Error.swift; path = SCNVideoWriter/Classes/Error.swift; sourceTree = "<group>"; };
+		247F9FE30A8688A7B6944383BC4B43BF /* Networking.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Networking.swift; path = Spine/Networking.swift; sourceTree = "<group>"; };
+		25FE3272159A1FFDEC14EDC7155B26F1 /* SerializeOperation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SerializeOperation.swift; path = Spine/SerializeOperation.swift; sourceTree = "<group>"; };
+		2A5C0B4393185E26655B4E5F9C077F9C /* hmac.c */ = {isa = PBXFileReference; includeInIndex = 1; name = hmac.c; path = SSZipArchive/aes/hmac.c; sourceTree = "<group>"; };
+		2C38A8C99ED009AAEB7115EA33CC656D /* MutableAsyncType+ResultType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "MutableAsyncType+ResultType.swift"; path = "Sources/BrightFutures/MutableAsyncType+ResultType.swift"; sourceTree = "<group>"; };
+		2C675675FD8EC0E4270A20DDDF222F1B /* Spine.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Spine.swift; path = Spine/Spine.swift; sourceTree = "<group>"; };
+		348D7E5922B80C9A8FD77B332932A4DF /* BrightFutures.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = BrightFutures.modulemap; sourceTree = "<group>"; };
+		376C12F7C825C2B3923E2C966773A3CB /* Routing.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Routing.swift; path = Spine/Routing.swift; sourceTree = "<group>"; };
+		3B422431C936D1980CC0433DAB304568 /* SCNVideoWriter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SCNVideoWriter.xcconfig; sourceTree = "<group>"; };
+		3D0EB882431BE363DDF45C4F76E9F6C2 /* Operation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Operation.swift; path = Spine/Operation.swift; sourceTree = "<group>"; };
+		3D48BE13CA10A41F0FAE7C501C713EE0 /* AsyncType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AsyncType.swift; path = Sources/BrightFutures/AsyncType.swift; sourceTree = "<group>"; };
+		3E35DC8C7A017C3108FBD29BA8020B1D /* aes_via_ace.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aes_via_ace.h; path = SSZipArchive/aes/aes_via_ace.h; sourceTree = "<group>"; };
+		4043A0795572BB0E978907451FC93BD0 /* sha1.c */ = {isa = PBXFileReference; includeInIndex = 1; name = sha1.c; path = SSZipArchive/aes/sha1.c; sourceTree = "<group>"; };
+		41B35C824317AEAE47D609C9B510D530 /* ViewVideoWriter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ViewVideoWriter.swift; path = SCNVideoWriter/Classes/ViewVideoWriter.swift; sourceTree = "<group>"; };
+		42A0B32F71142A58DBBED2E10459BEBF /* MutableAsyncType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MutableAsyncType.swift; path = Sources/BrightFutures/MutableAsyncType.swift; sourceTree = "<group>"; };
+		43DEEB2E3F42001FEDD61CC42279A87E /* Result-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Result-umbrella.h"; sourceTree = "<group>"; };
+		4437A33C4795619619DF58C30366C7F1 /* Spine-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Spine-umbrella.h"; sourceTree = "<group>"; };
+		4A6720B957E59B46615BEFD09E96B844 /* BrightFutures.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BrightFutures.xcconfig; sourceTree = "<group>"; };
 		4AF8A972DFDA00CCB6603C05B4C3DEE6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		4BD5DE3B062D3E39D04E6E42F7D28D1A /* Pods-SeaWorld-AR-Demo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SeaWorld-AR-Demo-acknowledgements.plist"; sourceTree = "<group>"; };
+		4CA3DC8CF0E2ED30F70201758BAF293B /* Resource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Resource.swift; path = Spine/Resource.swift; sourceTree = "<group>"; };
+		4ECA3BF618A715FB1461B9E4B0107FD3 /* prng.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = prng.h; path = SSZipArchive/aes/prng.h; sourceTree = "<group>"; };
+		4F2B8235860E61D07069A83F2DD4DAB3 /* BswarmFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BswarmFramework.framework; sourceTree = "<group>"; };
+		512A5CB364AEA49DC0600EAAE5092A77 /* unzip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = unzip.h; path = SSZipArchive/minizip/unzip.h; sourceTree = "<group>"; };
 		51362E9789BF1D967266A25511885847 /* Pods-SeaWorld-AR-Demo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SeaWorld-AR-Demo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		54D3C0FACAEE6193864DC399EF0496B1 /* unzip.c */ = {isa = PBXFileReference; includeInIndex = 1; name = unzip.c; path = SSZipArchive/minizip/unzip.c; sourceTree = "<group>"; };
-		55143B921A97FAA1503DBCC932C12F01 /* ViewVideoWriter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ViewVideoWriter.swift; path = SCNVideoWriter/Classes/ViewVideoWriter.swift; sourceTree = "<group>"; };
-		5527780E080C24EE4855DD2DD532C2B2 /* pwd2key.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = pwd2key.h; path = SSZipArchive/aes/pwd2key.h; sourceTree = "<group>"; };
-		5577098B6764D2FA84FF7417FBBC0299 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A03D059676B0E0DF6988AAF3DA65349 /* SCNVideoWriter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SCNVideoWriter.xcconfig; sourceTree = "<group>"; };
-		5B6BA27F4D241013CFB6BF6FF9102C3C /* SSZipCommon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SSZipCommon.h; path = SSZipArchive/SSZipCommon.h; sourceTree = "<group>"; };
-		5B7F8B7DAACD0AC38CF780DAC043704F /* Routing.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Routing.swift; path = Spine/Routing.swift; sourceTree = "<group>"; };
-		5E45C7825BA5AB64505064838AAC95B8 /* Options.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Options.swift; path = SCNVideoWriter/Classes/Options.swift; sourceTree = "<group>"; };
-		60E54E2F0A1933C3025D94D720261C47 /* SCNVideoWriter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SCNVideoWriter.swift; path = SCNVideoWriter/Classes/SCNVideoWriter.swift; sourceTree = "<group>"; };
-		623013F334A812A2A10D994F1FE3A23B /* Result.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Result.modulemap; sourceTree = "<group>"; };
-		636DE37D6D95E022090630DF23B237FB /* AsyncType+ResultType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AsyncType+ResultType.swift"; path = "Sources/BrightFutures/AsyncType+ResultType.swift"; sourceTree = "<group>"; };
-		654DFC369518D7279FA515DA26BCB3D7 /* PixelBufferFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PixelBufferFactory.swift; path = SCNVideoWriter/Classes/PixelBufferFactory.swift; sourceTree = "<group>"; };
-		6553BFD5F20415F9E114C44FFA1AB910 /* fileenc.c */ = {isa = PBXFileReference; includeInIndex = 1; name = fileenc.c; path = SSZipArchive/aes/fileenc.c; sourceTree = "<group>"; };
-		6660D9CAD9C2B20D5B9E3B0C6E515818 /* BswarmFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BswarmFramework.framework; sourceTree = "<group>"; };
+		53ACB78CC56DDBBB7DD065CF48AE605F /* brg_endian.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = brg_endian.h; path = SSZipArchive/aes/brg_endian.h; sourceTree = "<group>"; };
+		56C0A919654FED81B4F091D78AFE7B37 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58AF66EE7EC8294738EFA2C94C15707B /* mztools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mztools.h; path = SSZipArchive/minizip/mztools.h; sourceTree = "<group>"; };
+		59EA3579167AD08BFB694CA76E8000F4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B217E8BD4C9BEFE056F8A2F007FEB4C /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		5C65850C223442B63904DBDEA66263C3 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Result/Result.swift; sourceTree = "<group>"; };
+		5CF5D4818280B04230A1DE237C15DA5A /* Result.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Result.modulemap; sourceTree = "<group>"; };
+		5F674C9A5D0D572D1A0FBE8EFAC696C2 /* BrightFutures-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BrightFutures-prefix.pch"; sourceTree = "<group>"; };
+		61997DEF9B374E0573FD7C58C6490485 /* SSZipArchive-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSZipArchive-prefix.pch"; sourceTree = "<group>"; };
+		620F2C754297C8C732A93DDB649CB126 /* mztools.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mztools.c; path = SSZipArchive/minizip/mztools.c; sourceTree = "<group>"; };
+		6296019523EC1B290F3104E6854CC04A /* fileenc.c */ = {isa = PBXFileReference; includeInIndex = 1; name = fileenc.c; path = SSZipArchive/aes/fileenc.c; sourceTree = "<group>"; };
+		666F804AD5AEDD58F54AC9EA55DC4D5A /* aestab.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aestab.c; path = SSZipArchive/aes/aestab.c; sourceTree = "<group>"; };
 		6794AAF4E2B1666C68C51BDFF155B834 /* Pods-SeaWorld-AR-Demo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SeaWorld-AR-Demo-umbrella.h"; sourceTree = "<group>"; };
+		6936A070BD72746D2B7028A3C87C6A7F /* SSZipArchive.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SSZipArchive.xcconfig; sourceTree = "<group>"; };
 		696A000517B51B53A22C24135FDC00AB /* Pods-SeaWorld-AR-Demo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SeaWorld-AR-Demo-frameworks.sh"; sourceTree = "<group>"; };
-		6A48926125CDA2790E56BD9E3EC9AE75 /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
-		6D67DDAFFFCFFF82560FAE2D56717439 /* hmac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = hmac.h; path = SSZipArchive/aes/hmac.h; sourceTree = "<group>"; };
-		6ED239AF6A0382FE733ED3306F7160DC /* Serializing.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Serializing.swift; path = Spine/Serializing.swift; sourceTree = "<group>"; };
-		718BFF9393BBB95C854642C0EBDF2729 /* SerializeOperation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SerializeOperation.swift; path = Spine/SerializeOperation.swift; sourceTree = "<group>"; };
-		761D18EC6CD7107259F5B3A0667686CA /* SSZipArchive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SSZipArchive.h; path = SSZipArchive/SSZipArchive.h; sourceTree = "<group>"; };
-		765A7024BFA6C8472B3141BFC617D5C1 /* InvalidationToken.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InvalidationToken.swift; path = Sources/BrightFutures/InvalidationToken.swift; sourceTree = "<group>"; };
-		766468A2A82DBFCCD3B76DEB8063086C /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Result/Result.swift; sourceTree = "<group>"; };
-		778B467079668FC621718DBCC1086828 /* unzip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = unzip.h; path = SSZipArchive/minizip/unzip.h; sourceTree = "<group>"; };
-		7CCFF3A927A210499002E2BBDF8050B5 /* KeyFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeyFormatter.swift; path = Spine/KeyFormatter.swift; sourceTree = "<group>"; };
-		7CDDFC59B99A07EA11AD98D273AA569C /* zip.c */ = {isa = PBXFileReference; includeInIndex = 1; name = zip.c; path = SSZipArchive/minizip/zip.c; sourceTree = "<group>"; };
-		7F585EB2FA96D6732C2BC27662E09F0A /* mztools.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mztools.c; path = SSZipArchive/minizip/mztools.c; sourceTree = "<group>"; };
-		7F6F8DA41E0FCAD35D3E90ABDD114CCC /* aesopt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aesopt.h; path = SSZipArchive/aes/aesopt.h; sourceTree = "<group>"; };
-		8173E09C0938D4214445983ABCE20E7D /* pwd2key.c */ = {isa = PBXFileReference; includeInIndex = 1; name = pwd2key.c; path = SSZipArchive/aes/pwd2key.c; sourceTree = "<group>"; };
-		8192D9B97D4AD4DA44E09BE8360BB094 /* aescrypt.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aescrypt.c; path = SSZipArchive/aes/aescrypt.c; sourceTree = "<group>"; };
-		8338DB31833549D8C9F5A62BC03E48D2 /* SSZipArchive.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SSZipArchive.m; path = SSZipArchive/SSZipArchive.m; sourceTree = "<group>"; };
-		85494E9B21EE48F51F19A290E5F09330 /* Logging.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Logging.swift; path = Spine/Logging.swift; sourceTree = "<group>"; };
-		86A10206775D6CF797FF50A8DDFFC0CF /* SCNVideoWriter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SCNVideoWriter-umbrella.h"; sourceTree = "<group>"; };
-		86CE175819E044326D3B0DC800BB97B0 /* SCNVideoWriter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SCNVideoWriter-dummy.m"; sourceTree = "<group>"; };
-		87752EA74B36AEBC5219DF4A7E889005 /* Future.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Future.swift; path = Sources/BrightFutures/Future.swift; sourceTree = "<group>"; };
-		8AC70C15E7BA62B3C416F1EB4B3CF9F5 /* Result.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Result.xcconfig; sourceTree = "<group>"; };
-		8B0994798334B8FB9350CCD2B5394E95 /* brg_endian.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = brg_endian.h; path = SSZipArchive/aes/brg_endian.h; sourceTree = "<group>"; };
-		8BA3B909CB64F0AA68ED1B771986F415 /* SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
-		8D21AABE556F8F8E39D98D63B332469A /* Spine.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Spine.xcconfig; sourceTree = "<group>"; };
-		8F027E2B3B2E816C1BC752B4FFE3B15B /* Spine-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Spine-dummy.m"; sourceTree = "<group>"; };
-		90BB4E749BB837E28F4FC3F39FB28CBD /* crypt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = crypt.h; path = SSZipArchive/minizip/crypt.h; sourceTree = "<group>"; };
-		91FFD76A169A5979666F76113C73CDD1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69C3E4B19F434076E972283B60A908EB /* entropy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = entropy.h; path = SSZipArchive/aes/entropy.h; sourceTree = "<group>"; };
+		6AE1F9F96325F66180AD3BDCE28BCC9A /* brg_types.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = brg_types.h; path = SSZipArchive/aes/brg_types.h; sourceTree = "<group>"; };
+		6BF5A27E93162E809832F6B1D0B8FCC8 /* PixelBufferFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PixelBufferFactory.swift; path = SCNVideoWriter/Classes/PixelBufferFactory.swift; sourceTree = "<group>"; };
+		72EF1DDF95745EEB5299E5A6F4AC095C /* prng.c */ = {isa = PBXFileReference; includeInIndex = 1; name = prng.c; path = SSZipArchive/aes/prng.c; sourceTree = "<group>"; };
+		74593E360A5013BC947C11EBFD1FA359 /* SSZipArchive-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSZipArchive-umbrella.h"; sourceTree = "<group>"; };
+		751BED03B79B472EF5102643035F2A10 /* SSZipArchive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SSZipArchive.h; path = SSZipArchive/SSZipArchive.h; sourceTree = "<group>"; };
+		7A03DE9F1D7FB085E8208654CFCF76B3 /* SequenceType+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "SequenceType+BrightFutures.swift"; path = "Sources/BrightFutures/SequenceType+BrightFutures.swift"; sourceTree = "<group>"; };
+		7F9B153605EC2995184B54A97D91E0E3 /* Dispatch+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Dispatch+BrightFutures.swift"; path = "Sources/BrightFutures/Dispatch+BrightFutures.swift"; sourceTree = "<group>"; };
+		7FC245CC49D0EF10B44B6511246761FB /* AsyncType+Debug.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AsyncType+Debug.swift"; path = "Sources/BrightFutures/AsyncType+Debug.swift"; sourceTree = "<group>"; };
+		81058C153FB224FE4837F47D10BA6843 /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+		81765EA38381E73030420B8F1C7777E0 /* Result+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Result+BrightFutures.swift"; path = "Sources/BrightFutures/Result+BrightFutures.swift"; sourceTree = "<group>"; };
+		82AFCB44DA0EEE2ED980C8444CC15B2E /* entropy.c */ = {isa = PBXFileReference; includeInIndex = 1; name = entropy.c; path = SSZipArchive/aes/entropy.c; sourceTree = "<group>"; };
+		856BBE71BD660904781D558549F6DA0A /* Options.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Options.swift; path = SCNVideoWriter/Classes/Options.swift; sourceTree = "<group>"; };
+		86D56E0F4B426DA0631E26FDA008C16B /* SCNVideoWriter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SCNVideoWriter.modulemap; sourceTree = "<group>"; };
+		89F6214CD55F2B8ED10D3BD92D941A2B /* UIImage+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+Extensions.swift"; path = "SCNVideoWriter/Classes/UIImage+Extensions.swift"; sourceTree = "<group>"; };
+		8A650890704BA4CCAEBFA9F3D5604EE5 /* BrightFutures-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BrightFutures-dummy.m"; sourceTree = "<group>"; };
+		8A71DDE5951EB6BC01D9138DBA9F1BF1 /* DeserializeOperation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeserializeOperation.swift; path = Spine/DeserializeOperation.swift; sourceTree = "<group>"; };
+		8ECCE8792594EE6242310F70E6DEFBE3 /* ResourceField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResourceField.swift; path = Spine/ResourceField.swift; sourceTree = "<group>"; };
+		8FB9A9CA2833365C44F12004A9CDEFF4 /* ValueFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ValueFormatter.swift; path = Spine/ValueFormatter.swift; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		953B131C397037BC1DC922EBEBF73725 /* ResourceCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResourceCollection.swift; path = Spine/ResourceCollection.swift; sourceTree = "<group>"; };
-		967304AEC361FD6E5ACACDE91950B7F0 /* ResourceField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResourceField.swift; path = Spine/ResourceField.swift; sourceTree = "<group>"; };
-		988265419562EF104E0F9F3FCBF29938 /* sha1.c */ = {isa = PBXFileReference; includeInIndex = 1; name = sha1.c; path = SSZipArchive/aes/sha1.c; sourceTree = "<group>"; };
+		950A5E48D2071C2B8A1ACDE68BD5AEA0 /* Spine.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Spine.xcconfig; sourceTree = "<group>"; };
+		95AACB05235B8FEEF92A35FA8979756A /* AsyncType+ResultType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AsyncType+ResultType.swift"; path = "Sources/BrightFutures/AsyncType+ResultType.swift"; sourceTree = "<group>"; };
+		96782C3896BC222275B8A4B9D92DBF29 /* aeskey.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aeskey.c; path = SSZipArchive/aes/aeskey.c; sourceTree = "<group>"; };
+		97F0F3A8EE53D8A3C793F2F319167372 /* SCNVideoWriter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SCNVideoWriter-dummy.m"; sourceTree = "<group>"; };
+		98C5CCEA29AD9538FF8F281CA6E6473B /* Spine-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Spine-dummy.m"; sourceTree = "<group>"; };
+		9912394F97755A0CB18978ACC2BA64AE /* aesopt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aesopt.h; path = SSZipArchive/aes/aesopt.h; sourceTree = "<group>"; };
 		99E122353D4199ACA849C020BA2B2D16 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyJSON.framework; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9CE8578D93534588505ED8981843A1A5 /* MutableAsyncType+ResultType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "MutableAsyncType+ResultType.swift"; path = "Sources/BrightFutures/MutableAsyncType+ResultType.swift"; sourceTree = "<group>"; };
-		9E729C8DE5BE1D8425B48F1731D0C98E /* Networking.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Networking.swift; path = Spine/Networking.swift; sourceTree = "<group>"; };
+		9F8FCEDFEB4315E827B16A29444E22C6 /* SSZipArchive-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SSZipArchive-dummy.m"; sourceTree = "<group>"; };
 		9F97CCF7A90D136A1BFC33BB955398F2 /* Pods-SeaWorld-AR-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SeaWorld-AR-Demo.release.xcconfig"; sourceTree = "<group>"; };
-		A1DE1B89279A97D6265956237CAED406 /* SSZipArchive.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SSZipArchive.xcconfig; sourceTree = "<group>"; };
-		A2B78C3918FDC7FD9A9690462841E1DA /* aes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aes.h; path = SSZipArchive/aes/aes.h; sourceTree = "<group>"; };
+		A267D74C7F1BBFFFCFE2DF9DC0175303 /* aes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aes.h; path = SSZipArchive/aes/aes.h; sourceTree = "<group>"; };
+		A28C24676EE9C2E3834868DCF7C211E8 /* fileenc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = fileenc.h; path = SSZipArchive/aes/fileenc.h; sourceTree = "<group>"; };
 		A2F8CEADC89D6DE938535F533356E972 /* BrightFutures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BrightFutures.framework; path = BrightFutures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A63FC9995AC2FEF3987C5D1B2A0D6713 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A87715900825FDE6417AFFAD625FBD25 /* Query.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Query.swift; path = Spine/Query.swift; sourceTree = "<group>"; };
-		A9647F414E406DB0CBF701D42EC4690E /* BrightFutures-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BrightFutures-prefix.pch"; sourceTree = "<group>"; };
-		AA849788EC063EA49F1F437486956532 /* mztools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mztools.h; path = SSZipArchive/minizip/mztools.h; sourceTree = "<group>"; };
-		AC033264CEED90B5F44D24810A61D804 /* SSZipArchive.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SSZipArchive.modulemap; sourceTree = "<group>"; };
-		ACC908F4CA8983A65883545F2D9FF76E /* Operation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Operation.swift; path = Spine/Operation.swift; sourceTree = "<group>"; };
-		B09A3A0DEB5E3F9209110A2B21BDC17C /* ZipArchive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZipArchive.h; path = SSZipArchive/ZipArchive.h; sourceTree = "<group>"; };
-		B14F3CAE910C6389BE35FC946F7FEA93 /* Resource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Resource.swift; path = Spine/Resource.swift; sourceTree = "<group>"; };
+		A331662D35AECFC05F555EB0540E4156 /* ResourceFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResourceFactory.swift; path = Spine/ResourceFactory.swift; sourceTree = "<group>"; };
+		A43246EC79479067837F420302DAA394 /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = Spine/Errors.swift; sourceTree = "<group>"; };
+		A4A7CDC33B68B87D5B656B65B557C42D /* pwd2key.c */ = {isa = PBXFileReference; includeInIndex = 1; name = pwd2key.c; path = SSZipArchive/aes/pwd2key.c; sourceTree = "<group>"; };
+		A93BD5D8D348BE32814512AC3EF22416 /* SeaworldARFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SeaworldARFramework.framework; sourceTree = "<group>"; };
 		B228F874A7402A649A2D7F1654CEA2D9 /* Result.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Result.framework; path = Result.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B4D17F61F2B67D2DF6AEB5FCD6C1BD61 /* Async.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Async.swift; path = Sources/BrightFutures/Async.swift; sourceTree = "<group>"; };
+		B420153C45E1BAA8D882EA495C3DAFEA /* BrightFutures-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BrightFutures-umbrella.h"; sourceTree = "<group>"; };
+		B4AB2D31DB7335CF57B066CD64E813A8 /* pwd2key.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = pwd2key.h; path = SSZipArchive/aes/pwd2key.h; sourceTree = "<group>"; };
 		B7FFC3B43D6BFA89B5C9B29528C5C132 /* SCNVideoWriter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SCNVideoWriter.framework; path = SCNVideoWriter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BAE7C002F986F51A74F3D63A725B8D0C /* ioapi.c */ = {isa = PBXFileReference; includeInIndex = 1; name = ioapi.c; path = SSZipArchive/minizip/ioapi.c; sourceTree = "<group>"; };
-		BE8CF79600A36DBA13D33E5136946818 /* SSZipArchive-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SSZipArchive-dummy.m"; sourceTree = "<group>"; };
-		C3C33F74B27B099CF6E5622F4D723B02 /* ExecutionContext.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExecutionContext.swift; path = Sources/BrightFutures/ExecutionContext.swift; sourceTree = "<group>"; };
-		C49E0CBE8820B11E78ED513AF2C27D98 /* BrightFutures-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BrightFutures-dummy.m"; sourceTree = "<group>"; };
-		C4EE66D2EA14A37CD369B7F43A63B391 /* AsyncType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AsyncType.swift; path = Sources/BrightFutures/AsyncType.swift; sourceTree = "<group>"; };
-		D12A715DA5E07A4DDADFE33DC5DE82ED /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D313528BB2DF3AD92300B1197F893705 /* BrightFutures.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = BrightFutures.modulemap; sourceTree = "<group>"; };
-		D56DC8E67A8E34F898C46EDF5F170029 /* brg_types.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = brg_types.h; path = SSZipArchive/aes/brg_types.h; sourceTree = "<group>"; };
-		D64AFFA2F6F62AB820EF3F55AFAD1B84 /* Result+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Result+BrightFutures.swift"; path = "Sources/BrightFutures/Result+BrightFutures.swift"; sourceTree = "<group>"; };
-		D6799AF0F5955D61C91942D5B9E3BD04 /* UIImage+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+Extensions.swift"; path = "SCNVideoWriter/Classes/UIImage+Extensions.swift"; sourceTree = "<group>"; };
+		BA02BDDE928C8B45974A1AD8CF226742 /* FileController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FileController.swift; path = SCNVideoWriter/Classes/FileController.swift; sourceTree = "<group>"; };
+		BA41F678FFE7A362F3D81F8F63E358DB /* Logging.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Logging.swift; path = Spine/Logging.swift; sourceTree = "<group>"; };
+		BB4C92278C4AA7F508F5C8EC4E6C8410 /* InvalidationToken.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InvalidationToken.swift; path = Sources/BrightFutures/InvalidationToken.swift; sourceTree = "<group>"; };
+		BC70AF0DC66620347B417C96FF868592 /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
+		BE0B3F69E87171D1815CB4FA15F106E7 /* SCNVideoWriter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SCNVideoWriter-umbrella.h"; sourceTree = "<group>"; };
+		BE0D244852B47F23FC2B7FAC9AE78F9F /* Spine.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Spine.modulemap; sourceTree = "<group>"; };
+		BEC4AB9DE6166A9AE07C81C276C3C330 /* Error.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Error.swift; path = SCNVideoWriter/Classes/Error.swift; sourceTree = "<group>"; };
+		BF9AF3DF330513D2CEB9FC1D85B2DF2B /* SSZipArchive.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SSZipArchive.modulemap; sourceTree = "<group>"; };
+		C07623FC2A048CD5ECF29E518642253F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3407C48BFF46604039641D23F723C9B /* zip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = zip.h; path = SSZipArchive/minizip/zip.h; sourceTree = "<group>"; };
+		C768F9C632B878D3271CBEC35B72FF7C /* SCNVideoWriter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SCNVideoWriter-prefix.pch"; sourceTree = "<group>"; };
+		C8869C1837B8B620CA4B8D70C6B03CDE /* ioapi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ioapi.h; path = SSZipArchive/minizip/ioapi.h; sourceTree = "<group>"; };
+		CBA84FE4349D964AA144A6989026B9B4 /* ZipArchive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZipArchive.h; path = SSZipArchive/ZipArchive.h; sourceTree = "<group>"; };
+		D2EC69322FF48FA3D95146EA773956FA /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = Sources/BrightFutures/Errors.swift; sourceTree = "<group>"; };
+		D31ECAC669D969A96167B01CE2AF5249 /* zip.c */ = {isa = PBXFileReference; includeInIndex = 1; name = zip.c; path = SSZipArchive/minizip/zip.c; sourceTree = "<group>"; };
+		D77630C84E4C130A3A5DD21CFAE4FC79 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7994ED6206D4269EE12E374935D3A72 /* NSOperationQueue+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSOperationQueue+BrightFutures.swift"; path = "Sources/BrightFutures/NSOperationQueue+BrightFutures.swift"; sourceTree = "<group>"; };
 		D7D47A38E80967EC9848FF290845240B /* Result.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Result.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8E9843809185F0C5F4DA971EEE5F0DD /* Pods-SeaWorld-AR-Demo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SeaWorld-AR-Demo-dummy.m"; sourceTree = "<group>"; };
-		D91434A3F105F49A860B970C79D71F6E /* SSZipArchive-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSZipArchive-umbrella.h"; sourceTree = "<group>"; };
-		DA4921569C07EEF1542D1931B2BFF344 /* aestab.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aestab.c; path = SSZipArchive/aes/aestab.c; sourceTree = "<group>"; };
-		DAFA698EEA9E70EF5621799E34FC6EDF /* SCNVideoWriter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SCNVideoWriter.modulemap; sourceTree = "<group>"; };
-		DB074AECEEB5BBFCF43E2B748258021F /* ResultProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResultProtocol.swift; path = Result/ResultProtocol.swift; sourceTree = "<group>"; };
-		DBDC26A8B8A8B7527A59EB98648F2561 /* ioapi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ioapi.h; path = SSZipArchive/minizip/ioapi.h; sourceTree = "<group>"; };
-		DFE5F7A2C81DEBE31286404D93B04884 /* zip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = zip.h; path = SSZipArchive/minizip/zip.h; sourceTree = "<group>"; };
+		DAA00D69FD95AF9CB934F3840B5A2740 /* Serializing.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Serializing.swift; path = Spine/Serializing.swift; sourceTree = "<group>"; };
+		DEA25C393C306F07F56FBF9C718D56CE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEB7B1F98F2CAB34C2F48FA2301853ED /* Async.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Async.swift; path = Sources/BrightFutures/Async.swift; sourceTree = "<group>"; };
+		DFF46B0473E22F10237948BD0B945ACF /* KeyFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeyFormatter.swift; path = Spine/KeyFormatter.swift; sourceTree = "<group>"; };
 		E1780D961B2B629BB71BCB8AD623CD3E /* Pods-SeaWorld-AR-Demo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SeaWorld-AR-Demo.modulemap"; sourceTree = "<group>"; };
-		E20FAC3A87B728CD70BF60A4ECF1A5E6 /* hmac.c */ = {isa = PBXFileReference; includeInIndex = 1; name = hmac.c; path = SSZipArchive/aes/hmac.c; sourceTree = "<group>"; };
-		E2A22770FF0219E1C5A80AEBA401BE60 /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
-		E2C11EAB505F5567F499A7DC58C192D7 /* MutableAsyncType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MutableAsyncType.swift; path = Sources/BrightFutures/MutableAsyncType.swift; sourceTree = "<group>"; };
+		E19C3680100BEE7072955D952DBAD2A9 /* SSZipCommon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SSZipCommon.h; path = SSZipArchive/SSZipCommon.h; sourceTree = "<group>"; };
+		E1CA2DF03002787C18D2F5C303C7AE22 /* SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
 		E2E044DB1C1D379251981769FE1FF355 /* Pods-SeaWorld-AR-Demo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SeaWorld-AR-Demo-resources.sh"; sourceTree = "<group>"; };
-		E3E488DF74984BA86FB0F3C1E4B437C9 /* aes_via_ace.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aes_via_ace.h; path = SSZipArchive/aes/aes_via_ace.h; sourceTree = "<group>"; };
-		E3F2113DD2CEE6069C5EFC59E4C2BB25 /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
-		E88ADE5B16FB86DFDB27505233A6DED4 /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = Sources/BrightFutures/Errors.swift; sourceTree = "<group>"; };
-		EEBA230163B2ABE7893156808E533945 /* Spine-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Spine-umbrella.h"; sourceTree = "<group>"; };
-		EFA1CB2FE9864D58EC78FB4A0A40FDCE /* fileenc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = fileenc.h; path = SSZipArchive/aes/fileenc.h; sourceTree = "<group>"; };
+		E499456C8FC6EF6AA586220131F50B20 /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
+		E4F09662B34ABF236B04B599CE88EF95 /* SSZipArchive.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SSZipArchive.m; path = SSZipArchive/SSZipArchive.m; sourceTree = "<group>"; };
+		EA9A2347D0C9B7733C1BE46A9716AAA8 /* SCNVideoWriter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SCNVideoWriter.swift; path = SCNVideoWriter/Classes/SCNVideoWriter.swift; sourceTree = "<group>"; };
+		EC32F9932066FC96EAA38FC344E7ACC3 /* Number+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Number+BrightFutures.swift"; path = "Sources/BrightFutures/Number+BrightFutures.swift"; sourceTree = "<group>"; };
+		EC6C48A9324ED7E58BD88687716E4362 /* aescrypt.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aescrypt.c; path = SSZipArchive/aes/aescrypt.c; sourceTree = "<group>"; };
+		EE8A61C683A9B042331713CF08C41670 /* Result-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Result-prefix.pch"; sourceTree = "<group>"; };
 		F06DB9A5C7C2A9DDDCACD651436C5F37 /* BrightFutures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BrightFutures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4243EE30EC5AA6226FA0209623F4E2B /* BrightFutures-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BrightFutures-umbrella.h"; sourceTree = "<group>"; };
+		F10147359C36EE272EA9B151EA3F2E63 /* ExecutionContext.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExecutionContext.swift; path = Sources/BrightFutures/ExecutionContext.swift; sourceTree = "<group>"; };
+		F478A712CDDF67D3FA3FDE6D432D2E48 /* Result.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Result.xcconfig; sourceTree = "<group>"; };
 		F4A027C653197FEE1A551B793C227E00 /* Spine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Spine.framework; path = Spine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F72C2D2DD984147E11672AE7F17882BF /* DeserializeOperation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeserializeOperation.swift; path = Spine/DeserializeOperation.swift; sourceTree = "<group>"; };
 		F74D1E4670351223750CB15B6A44DB22 /* SSZipArchive.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SSZipArchive.framework; path = SSZipArchive.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F76E53172D48D1B32E037F573FED70C1 /* ValueFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ValueFormatter.swift; path = Spine/ValueFormatter.swift; sourceTree = "<group>"; };
+		F8D2F742FD44AF23640B548EC9178A41 /* Promise.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Promise.swift; path = Sources/BrightFutures/Promise.swift; sourceTree = "<group>"; };
+		F91B4E61DFA3AB149635D2AFC9074696 /* Future.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Future.swift; path = Sources/BrightFutures/Future.swift; sourceTree = "<group>"; };
 		FA7C2EDE11B88F101E16B0BA52B73703 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FB289E2EF6252144A2EF3FEB72E954C3 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FB54C0531DF05B465F57D6A67D8A8ACE /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
-		FE60F39F449F0B66A2A3810A017A0D43 /* Spine.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Spine.modulemap; sourceTree = "<group>"; };
-		FE9E86DAC32E67FBE4CAB753B516A58A /* Number+BrightFutures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Number+BrightFutures.swift"; path = "Sources/BrightFutures/Number+BrightFutures.swift"; sourceTree = "<group>"; };
-		FED32E60D67B74D91924CE29F1CE9223 /* aeskey.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aeskey.c; path = SSZipArchive/aes/aeskey.c; sourceTree = "<group>"; };
+		FB2E2E7C1F07A728ACF42D6EBDD7F714 /* ioapi.c */ = {isa = PBXFileReference; includeInIndex = 1; name = ioapi.c; path = SSZipArchive/minizip/ioapi.c; sourceTree = "<group>"; };
+		FBBCED6A6F88F8C8B0AA714D668830C7 /* sha1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = sha1.h; path = SSZipArchive/aes/sha1.h; sourceTree = "<group>"; };
+		FBD96034509FB04DF52C9173DF76510A /* hmac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = hmac.h; path = SSZipArchive/aes/hmac.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -386,6 +386,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0457AFC7D6B2EE9E0E28282B6700456B /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0A93E458BA2691A945CF310AB42FFE46 /* Info.plist */,
+				BE0D244852B47F23FC2B7FAC9AE78F9F /* Spine.modulemap */,
+				950A5E48D2071C2B8A1ACDE68BD5AEA0 /* Spine.xcconfig */,
+				98C5CCEA29AD9538FF8F281CA6E6473B /* Spine-dummy.m */,
+				0F14D19445682315546AD4787F77269E /* Spine-prefix.pch */,
+				4437A33C4795619619DF58C30366C7F1 /* Spine-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Spine";
+			sourceTree = "<group>";
+		};
 		0FDB81297CB28AC63CA166CDB3BBDE0F /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -408,86 +422,58 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		23E62F6EFEB2B3B99F49D957C7D9D58A /* SSZipArchive */ = {
+		1A1614521682A7E02D72BB86D937B57B /* SwiftyJSON */ = {
 			isa = PBXGroup;
 			children = (
-				A2B78C3918FDC7FD9A9690462841E1DA /* aes.h */,
-				E3E488DF74984BA86FB0F3C1E4B437C9 /* aes_via_ace.h */,
-				8192D9B97D4AD4DA44E09BE8360BB094 /* aescrypt.c */,
-				FED32E60D67B74D91924CE29F1CE9223 /* aeskey.c */,
-				7F6F8DA41E0FCAD35D3E90ABDD114CCC /* aesopt.h */,
-				DA4921569C07EEF1542D1931B2BFF344 /* aestab.c */,
-				2BA1421F4AAF4415D271BE68D9D38B9C /* aestab.h */,
-				8B0994798334B8FB9350CCD2B5394E95 /* brg_endian.h */,
-				D56DC8E67A8E34F898C46EDF5F170029 /* brg_types.h */,
-				90BB4E749BB837E28F4FC3F39FB28CBD /* crypt.h */,
-				1E4FE18169555FBDFDFAED62C20A89BF /* entropy.c */,
-				0EDECC9CEFACA0E34C57FEB9BA81ACE6 /* entropy.h */,
-				6553BFD5F20415F9E114C44FFA1AB910 /* fileenc.c */,
-				EFA1CB2FE9864D58EC78FB4A0A40FDCE /* fileenc.h */,
-				E20FAC3A87B728CD70BF60A4ECF1A5E6 /* hmac.c */,
-				6D67DDAFFFCFFF82560FAE2D56717439 /* hmac.h */,
-				BAE7C002F986F51A74F3D63A725B8D0C /* ioapi.c */,
-				DBDC26A8B8A8B7527A59EB98648F2561 /* ioapi.h */,
-				7F585EB2FA96D6732C2BC27662E09F0A /* mztools.c */,
-				AA849788EC063EA49F1F437486956532 /* mztools.h */,
-				3EE4D2C7336CBAA4C03FE217C20C3794 /* prng.c */,
-				2C19C552F0929193C4F782534D8DEB05 /* prng.h */,
-				8173E09C0938D4214445983ABCE20E7D /* pwd2key.c */,
-				5527780E080C24EE4855DD2DD532C2B2 /* pwd2key.h */,
-				988265419562EF104E0F9F3FCBF29938 /* sha1.c */,
-				170A4FB7CF09CA5AF3480A46E312678E /* sha1.h */,
-				761D18EC6CD7107259F5B3A0667686CA /* SSZipArchive.h */,
-				8338DB31833549D8C9F5A62BC03E48D2 /* SSZipArchive.m */,
-				5B6BA27F4D241013CFB6BF6FF9102C3C /* SSZipCommon.h */,
-				54D3C0FACAEE6193864DC399EF0496B1 /* unzip.c */,
-				778B467079668FC621718DBCC1086828 /* unzip.h */,
-				7CDDFC59B99A07EA11AD98D273AA569C /* zip.c */,
-				DFE5F7A2C81DEBE31286404D93B04884 /* zip.h */,
-				B09A3A0DEB5E3F9209110A2B21BDC17C /* ZipArchive.h */,
-				43D02CC73E242672517B428897EC1BBC /* Support Files */,
+				BC70AF0DC66620347B417C96FF868592 /* SwiftyJSON.swift */,
+				D9EBDC90A103ED93D83FCF78C73F3D6B /* Support Files */,
 			);
-			name = SSZipArchive;
-			path = SSZipArchive;
+			name = SwiftyJSON;
+			path = SwiftyJSON;
 			sourceTree = "<group>";
 		};
-		3471B2C8235682F73A6862E55AD95A69 /* Result */ = {
+		1DA17608468EE0057B8C320550FEEFBD /* SCNVideoWriter */ = {
 			isa = PBXGroup;
 			children = (
-				766468A2A82DBFCCD3B76DEB8063086C /* Result.swift */,
-				DB074AECEEB5BBFCF43E2B748258021F /* ResultProtocol.swift */,
-				72578940CE816745066EE744EB02278F /* Support Files */,
+				BEC4AB9DE6166A9AE07C81C276C3C330 /* Error.swift */,
+				BA02BDDE928C8B45974A1AD8CF226742 /* FileController.swift */,
+				856BBE71BD660904781D558549F6DA0A /* Options.swift */,
+				6BF5A27E93162E809832F6B1D0B8FCC8 /* PixelBufferFactory.swift */,
+				EA9A2347D0C9B7733C1BE46A9716AAA8 /* SCNVideoWriter.swift */,
+				89F6214CD55F2B8ED10D3BD92D941A2B /* UIImage+Extensions.swift */,
+				41B35C824317AEAE47D609C9B510D530 /* ViewVideoWriter.swift */,
+				AB52C421131666355BD298EFAEA659F1 /* Support Files */,
 			);
-			name = Result;
-			path = Result;
+			name = SCNVideoWriter;
+			path = SCNVideoWriter;
 			sourceTree = "<group>";
 		};
-		43D02CC73E242672517B428897EC1BBC /* Support Files */ = {
+		2D88361CF37BE69570B15D95BB24CEC4 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				5577098B6764D2FA84FF7417FBBC0299 /* Info.plist */,
-				AC033264CEED90B5F44D24810A61D804 /* SSZipArchive.modulemap */,
-				A1DE1B89279A97D6265956237CAED406 /* SSZipArchive.xcconfig */,
-				BE8CF79600A36DBA13D33E5136946818 /* SSZipArchive-dummy.m */,
-				0D47C089F65EE637C33AEDD325F041E3 /* SSZipArchive-prefix.pch */,
-				D91434A3F105F49A860B970C79D71F6E /* SSZipArchive-umbrella.h */,
+				C07623FC2A048CD5ECF29E518642253F /* Info.plist */,
+				BF9AF3DF330513D2CEB9FC1D85B2DF2B /* SSZipArchive.modulemap */,
+				6936A070BD72746D2B7028A3C87C6A7F /* SSZipArchive.xcconfig */,
+				9F8FCEDFEB4315E827B16A29444E22C6 /* SSZipArchive-dummy.m */,
+				61997DEF9B374E0573FD7C58C6490485 /* SSZipArchive-prefix.pch */,
+				74593E360A5013BC947C11EBFD1FA359 /* SSZipArchive-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/SSZipArchive";
 			sourceTree = "<group>";
 		};
-		557BE72370F81445ADAFBEBEB75913EB /* Support Files */ = {
+		2DC63C0C75EC1CDC6867C104C1E2FC7C /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				91FFD76A169A5979666F76113C73CDD1 /* Info.plist */,
-				6A48926125CDA2790E56BD9E3EC9AE75 /* SwiftyJSON.modulemap */,
-				3ACA69D7D89FBADCF991EAC37C9FA9CB /* SwiftyJSON.xcconfig */,
-				E3F2113DD2CEE6069C5EFC59E4C2BB25 /* SwiftyJSON-dummy.m */,
-				E2A22770FF0219E1C5A80AEBA401BE60 /* SwiftyJSON-prefix.pch */,
-				8BA3B909CB64F0AA68ED1B771986F415 /* SwiftyJSON-umbrella.h */,
+				EC3C8A4E990B5F9303BFD487B34ABACB /* BrightFutures */,
+				8A4632BFA4AF302BCD527BC54063C432 /* Result */,
+				1DA17608468EE0057B8C320550FEEFBD /* SCNVideoWriter */,
+				D6FDD21B7BBCF0C006581258A59BCB75 /* SeaworldARFramework */,
+				A4C1A5F878715C8F51D8C9C547AA030B /* Spine */,
+				BF8C89E6260FDE306311D1CA87BA1486 /* SSZipArchive */,
+				1A1614521682A7E02D72BB86D937B57B /* SwiftyJSON */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/SwiftyJSON";
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		5E33F639326D5CB63EB373667CD3C90F /* Frameworks */ = {
@@ -501,40 +487,15 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		623858BD9586C37800745380E8654A01 /* BrightFutures */ = {
+		76CADF061C64BB1438DE089CA0EFCD69 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				B4D17F61F2B67D2DF6AEB5FCD6C1BD61 /* Async.swift */,
-				C4EE66D2EA14A37CD369B7F43A63B391 /* AsyncType.swift */,
-				2E61A8D853BD0295A52134C2D267F80A /* AsyncType+Debug.swift */,
-				636DE37D6D95E022090630DF23B237FB /* AsyncType+ResultType.swift */,
-				2B823E18F98944BD437B784B42578ECD /* Dispatch+BrightFutures.swift */,
-				E88ADE5B16FB86DFDB27505233A6DED4 /* Errors.swift */,
-				C3C33F74B27B099CF6E5622F4D723B02 /* ExecutionContext.swift */,
-				87752EA74B36AEBC5219DF4A7E889005 /* Future.swift */,
-				765A7024BFA6C8472B3141BFC617D5C1 /* InvalidationToken.swift */,
-				E2C11EAB505F5567F499A7DC58C192D7 /* MutableAsyncType.swift */,
-				9CE8578D93534588505ED8981843A1A5 /* MutableAsyncType+ResultType.swift */,
-				387277A6CF82A554236D4F9896F74E8C /* NSOperationQueue+BrightFutures.swift */,
-				FE9E86DAC32E67FBE4CAB753B516A58A /* Number+BrightFutures.swift */,
-				0A905CD77F8565B660095D1859214D95 /* Promise.swift */,
-				D64AFFA2F6F62AB820EF3F55AFAD1B84 /* Result+BrightFutures.swift */,
-				2295AE8C2352451D5CD9778EC2038F19 /* SequenceType+BrightFutures.swift */,
-				952ABFA49613C45BD364CCDB17D6748C /* Support Files */,
-			);
-			name = BrightFutures;
-			path = BrightFutures;
-			sourceTree = "<group>";
-		};
-		72578940CE816745066EE744EB02278F /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				FB289E2EF6252144A2EF3FEB72E954C3 /* Info.plist */,
-				623013F334A812A2A10D994F1FE3A23B /* Result.modulemap */,
-				8AC70C15E7BA62B3C416F1EB4B3CF9F5 /* Result.xcconfig */,
-				24639A6C160D9B10B30616D6A89CE242 /* Result-dummy.m */,
-				2A1614FB1F71394A38F1F4170FDCE918 /* Result-prefix.pch */,
-				3140AD9D2DDE1043C96D1A5683E25C64 /* Result-umbrella.h */,
+				D77630C84E4C130A3A5DD21CFAE4FC79 /* Info.plist */,
+				5CF5D4818280B04230A1DE237C15DA5A /* Result.modulemap */,
+				F478A712CDDF67D3FA3FDE6D432D2E48 /* Result.xcconfig */,
+				1DBDFD0DD369826E573B8A969616F451 /* Result-dummy.m */,
+				EE8A61C683A9B042331713CF08C41670 /* Result-prefix.pch */,
+				43DEEB2E3F42001FEDD61CC42279A87E /* Result-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Result";
@@ -544,34 +505,36 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				8EB82E9D98EC6B051720CE6A38EED408 /* Development Pods */,
 				5E33F639326D5CB63EB373667CD3C90F /* Frameworks */,
-				BE15F0EBEFE96A20C99FEF527CD91769 /* Pods */,
+				2DC63C0C75EC1CDC6867C104C1E2FC7C /* Pods */,
 				10F790D2FDD4B98911C4EA261DA70306 /* Products */,
 				0FDB81297CB28AC63CA166CDB3BBDE0F /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		8EB82E9D98EC6B051720CE6A38EED408 /* Development Pods */ = {
+		87AAE44185D89B02CFE4CA78555D8875 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				DA877091A0D9A25A8B616CEF0732F950 /* SeaworldARFramework */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		952ABFA49613C45BD364CCDB17D6748C /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				D313528BB2DF3AD92300B1197F893705 /* BrightFutures.modulemap */,
-				19362BBC512205BB57601B0790C2EFF1 /* BrightFutures.xcconfig */,
-				C49E0CBE8820B11E78ED513AF2C27D98 /* BrightFutures-dummy.m */,
-				A9647F414E406DB0CBF701D42EC4690E /* BrightFutures-prefix.pch */,
-				F4243EE30EC5AA6226FA0209623F4E2B /* BrightFutures-umbrella.h */,
-				0AFE2E441269BE67FD9F3BF6417D7E65 /* Info.plist */,
+				348D7E5922B80C9A8FD77B332932A4DF /* BrightFutures.modulemap */,
+				4A6720B957E59B46615BEFD09E96B844 /* BrightFutures.xcconfig */,
+				8A650890704BA4CCAEBFA9F3D5604EE5 /* BrightFutures-dummy.m */,
+				5F674C9A5D0D572D1A0FBE8EFAC696C2 /* BrightFutures-prefix.pch */,
+				B420153C45E1BAA8D882EA495C3DAFEA /* BrightFutures-umbrella.h */,
+				59EA3579167AD08BFB694CA76E8000F4 /* Info.plist */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/BrightFutures";
+			sourceTree = "<group>";
+		};
+		8A4632BFA4AF302BCD527BC54063C432 /* Result */ = {
+			isa = PBXGroup;
+			children = (
+				5C65850C223442B63904DBDEA66263C3 /* Result.swift */,
+				1D6B03FB29BC2EB61E2C585CD9FC821D /* ResultProtocol.swift */,
+				76CADF061C64BB1438DE089CA0EFCD69 /* Support Files */,
+			);
+			name = Result;
+			path = Result;
 			sourceTree = "<group>";
 		};
 		9C6DD60F42F2734F3900709E9BC08646 /* iOS */ = {
@@ -582,41 +545,95 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		A1CD0C53906376E92198DCE2CC768CF0 /* Support Files */ = {
+		A37F646FEBB7D49AF81608A05214379F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D12A715DA5E07A4DDADFE33DC5DE82ED /* Info.plist */,
-				DAFA698EEA9E70EF5621799E34FC6EDF /* SCNVideoWriter.modulemap */,
-				5A03D059676B0E0DF6988AAF3DA65349 /* SCNVideoWriter.xcconfig */,
-				86CE175819E044326D3B0DC800BB97B0 /* SCNVideoWriter-dummy.m */,
-				2B61163692F9A20D2954A1BDC62FFDCE /* SCNVideoWriter-prefix.pch */,
-				86A10206775D6CF797FF50A8DDFFC0CF /* SCNVideoWriter-umbrella.h */,
+				4F2B8235860E61D07069A83F2DD4DAB3 /* BswarmFramework.framework */,
+				A93BD5D8D348BE32814512AC3EF22416 /* SeaworldARFramework.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A4C1A5F878715C8F51D8C9C547AA030B /* Spine */ = {
+			isa = PBXGroup;
+			children = (
+				8A71DDE5951EB6BC01D9138DBA9F1BF1 /* DeserializeOperation.swift */,
+				A43246EC79479067837F420302DAA394 /* Errors.swift */,
+				DFF46B0473E22F10237948BD0B945ACF /* KeyFormatter.swift */,
+				BA41F678FFE7A362F3D81F8F63E358DB /* Logging.swift */,
+				247F9FE30A8688A7B6944383BC4B43BF /* Networking.swift */,
+				3D0EB882431BE363DDF45C4F76E9F6C2 /* Operation.swift */,
+				18C5EAD1BD500555A391E74D35E77DCB /* Query.swift */,
+				4CA3DC8CF0E2ED30F70201758BAF293B /* Resource.swift */,
+				1E017E5EF61721D7C16BF7884E243A2F /* ResourceCollection.swift */,
+				A331662D35AECFC05F555EB0540E4156 /* ResourceFactory.swift */,
+				8ECCE8792594EE6242310F70E6DEFBE3 /* ResourceField.swift */,
+				376C12F7C825C2B3923E2C966773A3CB /* Routing.swift */,
+				25FE3272159A1FFDEC14EDC7155B26F1 /* SerializeOperation.swift */,
+				DAA00D69FD95AF9CB934F3840B5A2740 /* Serializing.swift */,
+				2C675675FD8EC0E4270A20DDDF222F1B /* Spine.swift */,
+				8FB9A9CA2833365C44F12004A9CDEFF4 /* ValueFormatter.swift */,
+				0457AFC7D6B2EE9E0E28282B6700456B /* Support Files */,
+			);
+			name = Spine;
+			path = Spine;
+			sourceTree = "<group>";
+		};
+		AB52C421131666355BD298EFAEA659F1 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				56C0A919654FED81B4F091D78AFE7B37 /* Info.plist */,
+				86D56E0F4B426DA0631E26FDA008C16B /* SCNVideoWriter.modulemap */,
+				3B422431C936D1980CC0433DAB304568 /* SCNVideoWriter.xcconfig */,
+				97F0F3A8EE53D8A3C793F2F319167372 /* SCNVideoWriter-dummy.m */,
+				C768F9C632B878D3271CBEC35B72FF7C /* SCNVideoWriter-prefix.pch */,
+				BE0B3F69E87171D1815CB4FA15F106E7 /* SCNVideoWriter-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/SCNVideoWriter";
 			sourceTree = "<group>";
 		};
-		A4FD5C8506CA8D57FF509EC002E7A3FC /* SwiftyJSON */ = {
+		BF8C89E6260FDE306311D1CA87BA1486 /* SSZipArchive */ = {
 			isa = PBXGroup;
 			children = (
-				FB54C0531DF05B465F57D6A67D8A8ACE /* SwiftyJSON.swift */,
-				557BE72370F81445ADAFBEBEB75913EB /* Support Files */,
+				A267D74C7F1BBFFFCFE2DF9DC0175303 /* aes.h */,
+				3E35DC8C7A017C3108FBD29BA8020B1D /* aes_via_ace.h */,
+				EC6C48A9324ED7E58BD88687716E4362 /* aescrypt.c */,
+				96782C3896BC222275B8A4B9D92DBF29 /* aeskey.c */,
+				9912394F97755A0CB18978ACC2BA64AE /* aesopt.h */,
+				666F804AD5AEDD58F54AC9EA55DC4D5A /* aestab.c */,
+				00AC20C640B38456F80A41C832AB2724 /* aestab.h */,
+				53ACB78CC56DDBBB7DD065CF48AE605F /* brg_endian.h */,
+				6AE1F9F96325F66180AD3BDCE28BCC9A /* brg_types.h */,
+				0FD9C9CFB0B9D1F02B197F4BC9C7E456 /* crypt.h */,
+				82AFCB44DA0EEE2ED980C8444CC15B2E /* entropy.c */,
+				69C3E4B19F434076E972283B60A908EB /* entropy.h */,
+				6296019523EC1B290F3104E6854CC04A /* fileenc.c */,
+				A28C24676EE9C2E3834868DCF7C211E8 /* fileenc.h */,
+				2A5C0B4393185E26655B4E5F9C077F9C /* hmac.c */,
+				FBD96034509FB04DF52C9173DF76510A /* hmac.h */,
+				FB2E2E7C1F07A728ACF42D6EBDD7F714 /* ioapi.c */,
+				C8869C1837B8B620CA4B8D70C6B03CDE /* ioapi.h */,
+				620F2C754297C8C732A93DDB649CB126 /* mztools.c */,
+				58AF66EE7EC8294738EFA2C94C15707B /* mztools.h */,
+				72EF1DDF95745EEB5299E5A6F4AC095C /* prng.c */,
+				4ECA3BF618A715FB1461B9E4B0107FD3 /* prng.h */,
+				A4A7CDC33B68B87D5B656B65B557C42D /* pwd2key.c */,
+				B4AB2D31DB7335CF57B066CD64E813A8 /* pwd2key.h */,
+				4043A0795572BB0E978907451FC93BD0 /* sha1.c */,
+				FBBCED6A6F88F8C8B0AA714D668830C7 /* sha1.h */,
+				751BED03B79B472EF5102643035F2A10 /* SSZipArchive.h */,
+				E4F09662B34ABF236B04B599CE88EF95 /* SSZipArchive.m */,
+				E19C3680100BEE7072955D952DBAD2A9 /* SSZipCommon.h */,
+				2008FBCB1EB319629FE98B4433E28009 /* unzip.c */,
+				512A5CB364AEA49DC0600EAAE5092A77 /* unzip.h */,
+				D31ECAC669D969A96167B01CE2AF5249 /* zip.c */,
+				C3407C48BFF46604039641D23F723C9B /* zip.h */,
+				CBA84FE4349D964AA144A6989026B9B4 /* ZipArchive.h */,
+				2D88361CF37BE69570B15D95BB24CEC4 /* Support Files */,
 			);
-			name = SwiftyJSON;
-			path = SwiftyJSON;
-			sourceTree = "<group>";
-		};
-		BE15F0EBEFE96A20C99FEF527CD91769 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				623858BD9586C37800745380E8654A01 /* BrightFutures */,
-				3471B2C8235682F73A6862E55AD95A69 /* Result */,
-				EA0BDAF91FAF609B2A702F7E13DF25D9 /* SCNVideoWriter */,
-				D54CF6A6FE71AB9FEB43707CBF5AE781 /* Spine */,
-				23E62F6EFEB2B3B99F49D957C7D9D58A /* SSZipArchive */,
-				A4FD5C8506CA8D57FF509EC002E7A3FC /* SwiftyJSON */,
-			);
-			name = Pods;
+			name = SSZipArchive;
+			path = SSZipArchive;
 			sourceTree = "<group>";
 		};
 		C741494B0E4D14F397EB57213B9736F8 /* Pods-SeaWorld-AR-Demo */ = {
@@ -637,77 +654,52 @@
 			path = "Target Support Files/Pods-SeaWorld-AR-Demo";
 			sourceTree = "<group>";
 		};
-		CF631C69673A41A3F689E4BE37936BC7 /* Frameworks */ = {
+		D6FDD21B7BBCF0C006581258A59BCB75 /* SeaworldARFramework */ = {
 			isa = PBXGroup;
 			children = (
-				6660D9CAD9C2B20D5B9E3B0C6E515818 /* BswarmFramework.framework */,
-				24EDBD263F7CEC810D398BFC9C3C6CCC /* SeaworldARFramework.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D54CF6A6FE71AB9FEB43707CBF5AE781 /* Spine */ = {
-			isa = PBXGroup;
-			children = (
-				F72C2D2DD984147E11672AE7F17882BF /* DeserializeOperation.swift */,
-				134F33CC70EFE8A74D1AD82823106D06 /* Errors.swift */,
-				7CCFF3A927A210499002E2BBDF8050B5 /* KeyFormatter.swift */,
-				85494E9B21EE48F51F19A290E5F09330 /* Logging.swift */,
-				9E729C8DE5BE1D8425B48F1731D0C98E /* Networking.swift */,
-				ACC908F4CA8983A65883545F2D9FF76E /* Operation.swift */,
-				A87715900825FDE6417AFFAD625FBD25 /* Query.swift */,
-				B14F3CAE910C6389BE35FC946F7FEA93 /* Resource.swift */,
-				953B131C397037BC1DC922EBEBF73725 /* ResourceCollection.swift */,
-				3F250E0D960D56740C98E5C1BB8682A4 /* ResourceFactory.swift */,
-				967304AEC361FD6E5ACACDE91950B7F0 /* ResourceField.swift */,
-				5B7F8B7DAACD0AC38CF780DAC043704F /* Routing.swift */,
-				718BFF9393BBB95C854642C0EBDF2729 /* SerializeOperation.swift */,
-				6ED239AF6A0382FE733ED3306F7160DC /* Serializing.swift */,
-				1372B9D8F5AD03F42D7F5F2ACC91769F /* Spine.swift */,
-				F76E53172D48D1B32E037F573FED70C1 /* ValueFormatter.swift */,
-				F6F23AED7F9BF11C5E0702415F066533 /* Support Files */,
-			);
-			name = Spine;
-			path = Spine;
-			sourceTree = "<group>";
-		};
-		DA877091A0D9A25A8B616CEF0732F950 /* SeaworldARFramework */ = {
-			isa = PBXGroup;
-			children = (
-				CF631C69673A41A3F689E4BE37936BC7 /* Frameworks */,
+				A37F646FEBB7D49AF81608A05214379F /* Frameworks */,
 			);
 			name = SeaworldARFramework;
-			path = ../..;
+			path = SeaworldARFramework;
 			sourceTree = "<group>";
 		};
-		EA0BDAF91FAF609B2A702F7E13DF25D9 /* SCNVideoWriter */ = {
+		D9EBDC90A103ED93D83FCF78C73F3D6B /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				44477072126D944E67C3A7DE3C3E83CE /* Error.swift */,
-				3E238FFEA9CCE296FB5497DD52CE3C7C /* FileController.swift */,
-				5E45C7825BA5AB64505064838AAC95B8 /* Options.swift */,
-				654DFC369518D7279FA515DA26BCB3D7 /* PixelBufferFactory.swift */,
-				60E54E2F0A1933C3025D94D720261C47 /* SCNVideoWriter.swift */,
-				D6799AF0F5955D61C91942D5B9E3BD04 /* UIImage+Extensions.swift */,
-				55143B921A97FAA1503DBCC932C12F01 /* ViewVideoWriter.swift */,
-				A1CD0C53906376E92198DCE2CC768CF0 /* Support Files */,
-			);
-			name = SCNVideoWriter;
-			path = SCNVideoWriter;
-			sourceTree = "<group>";
-		};
-		F6F23AED7F9BF11C5E0702415F066533 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				A63FC9995AC2FEF3987C5D1B2A0D6713 /* Info.plist */,
-				FE60F39F449F0B66A2A3810A017A0D43 /* Spine.modulemap */,
-				8D21AABE556F8F8E39D98D63B332469A /* Spine.xcconfig */,
-				8F027E2B3B2E816C1BC752B4FFE3B15B /* Spine-dummy.m */,
-				29224B29338A7CC4E564311FD7996065 /* Spine-prefix.pch */,
-				EEBA230163B2ABE7893156808E533945 /* Spine-umbrella.h */,
+				DEA25C393C306F07F56FBF9C718D56CE /* Info.plist */,
+				E499456C8FC6EF6AA586220131F50B20 /* SwiftyJSON.modulemap */,
+				0BFEF653D7BEBE7E80CA83E7625B54BC /* SwiftyJSON.xcconfig */,
+				5B217E8BD4C9BEFE056F8A2F007FEB4C /* SwiftyJSON-dummy.m */,
+				81058C153FB224FE4837F47D10BA6843 /* SwiftyJSON-prefix.pch */,
+				E1CA2DF03002787C18D2F5C303C7AE22 /* SwiftyJSON-umbrella.h */,
 			);
 			name = "Support Files";
-			path = "../Target Support Files/Spine";
+			path = "../Target Support Files/SwiftyJSON";
+			sourceTree = "<group>";
+		};
+		EC3C8A4E990B5F9303BFD487B34ABACB /* BrightFutures */ = {
+			isa = PBXGroup;
+			children = (
+				DEB7B1F98F2CAB34C2F48FA2301853ED /* Async.swift */,
+				3D48BE13CA10A41F0FAE7C501C713EE0 /* AsyncType.swift */,
+				7FC245CC49D0EF10B44B6511246761FB /* AsyncType+Debug.swift */,
+				95AACB05235B8FEEF92A35FA8979756A /* AsyncType+ResultType.swift */,
+				7F9B153605EC2995184B54A97D91E0E3 /* Dispatch+BrightFutures.swift */,
+				D2EC69322FF48FA3D95146EA773956FA /* Errors.swift */,
+				F10147359C36EE272EA9B151EA3F2E63 /* ExecutionContext.swift */,
+				F91B4E61DFA3AB149635D2AFC9074696 /* Future.swift */,
+				BB4C92278C4AA7F508F5C8EC4E6C8410 /* InvalidationToken.swift */,
+				42A0B32F71142A58DBBED2E10459BEBF /* MutableAsyncType.swift */,
+				2C38A8C99ED009AAEB7115EA33CC656D /* MutableAsyncType+ResultType.swift */,
+				D7994ED6206D4269EE12E374935D3A72 /* NSOperationQueue+BrightFutures.swift */,
+				EC32F9932066FC96EAA38FC344E7ACC3 /* Number+BrightFutures.swift */,
+				F8D2F742FD44AF23640B548EC9178A41 /* Promise.swift */,
+				81765EA38381E73030420B8F1C7777E0 /* Result+BrightFutures.swift */,
+				7A03DE9F1D7FB085E8208654CFCF76B3 /* SequenceType+BrightFutures.swift */,
+				87AAE44185D89B02CFE4CA78555D8875 /* Support Files */,
+			);
+			name = BrightFutures;
+			path = BrightFutures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1228,7 +1220,7 @@
 		};
 		58C77CAB87EE98F4DE3C3004667F1B0E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 19362BBC512205BB57601B0790C2EFF1 /* BrightFutures.xcconfig */;
+			baseConfigurationReference = 4A6720B957E59B46615BEFD09E96B844 /* BrightFutures.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1260,7 +1252,7 @@
 		};
 		668EDEF67D2813401B4400F25D9DEE04 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3ACA69D7D89FBADCF991EAC37C9FA9CB /* SwiftyJSON.xcconfig */;
+			baseConfigurationReference = 0BFEF653D7BEBE7E80CA83E7625B54BC /* SwiftyJSON.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1292,7 +1284,7 @@
 		};
 		7A00640B35C92CA4F8752CBC75D6D0B6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8D21AABE556F8F8E39D98D63B332469A /* Spine.xcconfig */;
+			baseConfigurationReference = 950A5E48D2071C2B8A1ACDE68BD5AEA0 /* Spine.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1379,7 +1371,7 @@
 		};
 		98BD640F2E70D66DDEDA66B942CB2207 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5A03D059676B0E0DF6988AAF3DA65349 /* SCNVideoWriter.xcconfig */;
+			baseConfigurationReference = 3B422431C936D1980CC0433DAB304568 /* SCNVideoWriter.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1410,7 +1402,7 @@
 		};
 		B0A593F68B56F38B4F21CC886D5DFE2A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8AC70C15E7BA62B3C416F1EB4B3CF9F5 /* Result.xcconfig */;
+			baseConfigurationReference = F478A712CDDF67D3FA3FDE6D432D2E48 /* Result.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1441,7 +1433,7 @@
 		};
 		B175EDD781FD1636B5EFF2D54D0ABA52 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A1DE1B89279A97D6265956237CAED406 /* SSZipArchive.xcconfig */;
+			baseConfigurationReference = 6936A070BD72746D2B7028A3C87C6A7F /* SSZipArchive.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1471,7 +1463,7 @@
 		};
 		B750FBE9295AEC268AFB65867AF6287C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A1DE1B89279A97D6265956237CAED406 /* SSZipArchive.xcconfig */;
+			baseConfigurationReference = 6936A070BD72746D2B7028A3C87C6A7F /* SSZipArchive.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1502,7 +1494,7 @@
 		};
 		C409308C1F3F772AB82E3026B97B50C4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 19362BBC512205BB57601B0790C2EFF1 /* BrightFutures.xcconfig */;
+			baseConfigurationReference = 4A6720B957E59B46615BEFD09E96B844 /* BrightFutures.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1533,7 +1525,7 @@
 		};
 		C677F5D9E87958A5638E6EF8A3E4F6BC /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8D21AABE556F8F8E39D98D63B332469A /* Spine.xcconfig */;
+			baseConfigurationReference = 950A5E48D2071C2B8A1ACDE68BD5AEA0 /* Spine.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1564,7 +1556,7 @@
 		};
 		CA9DCDE0935AFD8B317FD385E5134FA6 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5A03D059676B0E0DF6988AAF3DA65349 /* SCNVideoWriter.xcconfig */;
+			baseConfigurationReference = 3B422431C936D1980CC0433DAB304568 /* SCNVideoWriter.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1596,7 +1588,7 @@
 		};
 		D8BFF66ECA958A6655694E40EA6A16BA /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3ACA69D7D89FBADCF991EAC37C9FA9CB /* SwiftyJSON.xcconfig */;
+			baseConfigurationReference = 0BFEF653D7BEBE7E80CA83E7625B54BC /* SwiftyJSON.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1627,7 +1619,7 @@
 		};
 		D97385F911FCC5F0E66D68A4017C7991 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8AC70C15E7BA62B3C416F1EB4B3CF9F5 /* Result.xcconfig */;
+			baseConfigurationReference = F478A712CDDF67D3FA3FDE6D432D2E48 /* Result.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

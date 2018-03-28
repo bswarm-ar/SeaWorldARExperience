@@ -13,5 +13,6 @@ Pod::Spec.new do |s|
   s.ios.dependency 'SCNVideoWriter'
   s.ios.dependency 'Result'
   s.ios.dependency 'Spine'
+  s.ios.dependency 'NYTPhotoViewer'
   s.ios.vendored_frameworks = ['BswarmFramework.framework','SeaworldARFramework.framework']
 end

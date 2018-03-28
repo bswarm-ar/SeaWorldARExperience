@@ -48,7 +48,39 @@ Each SyncResult contains a list of all the operations its performed, as well as 
 
 The results field is a record of each operations result,it is keyed by the name of animation. Each keys value is a `Result<URL?,SyncError>`. If the operation is a deletion operation the url will be nil otherwise the url will point to the local location of the animation.
 
-## Displaying animations 
+## NetworkController
+
+`NetworkController` will allow you access to the bswarm animation api.
+
+It has two main methods
+```
+/// Fetches a list of all Markers for Seaworld
+///
+/// - Parameter result: result is either a list of markers or the error that occurred
+public func allMarkers(result: @escaping ((Result<([Marker]), SpineError>) -> ()))
+
+/// Fetches a list of all animation's names from the backend
+///
+/// - Parameter result: result is either a list of names or the error that occurred
+public func allAnimations(result: @escaping ((Result<([RemoteAnimation]), SpineError>) -> ()))
+```
+
+These methods will allow you to get a list of Marker objects as well as a list of all animation objects.
+
+Please only keep one instance of NetworkController alive at a time.
+
+
+## DisplayAnimationViewController
+
+DisplayAnimationViewController is provided to make displaying animations as easy as possible. Simply pass through the animation file name
+```
+let vc = DisplayAnimationViewController.instance()
+vc.animationId = self.animations[indexPath.row].animationFileName
+```
+There is an example of this in `ViewController` of the demo project
+
+
+## Manually Displaying animations 
 
 As is shown in the `DisplayAnimationViewController` in the demo projects, displaying animations should be simple.
 
@@ -68,3 +100,4 @@ and finish the recording with
 this will result in a completion being called with a local url of the video saved to the temp directory.
 
 You can also check if its currently recording using the flag `isRecording`
+

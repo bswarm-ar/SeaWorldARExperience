@@ -174,6 +174,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_feature(modules)
 @import BswarmFramework;
 @import UIKit;
+@import Spine;
+@import CoreGraphics;
+@import ObjectiveC;
+@import NYTPhotoViewer;
+@import Foundation;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -190,6 +195,20 @@ SWIFT_MODULE_NAMESPACE_PUSH("SeaworldARFramework")
 @class NSBundle;
 @class NSCoder;
 
+SWIFT_CLASS("_TtC19SeaworldARFramework30DisplayAnimationViewController")
+@interface DisplayAnimationViewController : UIViewController
+@property (nonatomic, readonly) UIStatusBarAnimation preferredStatusBarUpdateAnimation;
+@property (nonatomic, readonly) BOOL prefersStatusBarHidden;
+- (void)viewDidLoad;
+- (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
 /// A default implementation of the syncEngine in a
 /// vc, will be moved to the example project
 SWIFT_CLASS("_TtC19SeaworldARFramework23FetchAnimViewController")
@@ -197,6 +216,63 @@ SWIFT_CLASS("_TtC19SeaworldARFramework23FetchAnimViewController")
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class RemoteAnimation;
+@class CLLocation;
+
+SWIFT_CLASS("_TtC19SeaworldARFramework6Marker")
+@interface Marker : Resource
+@property (nonatomic, strong) RemoteAnimation * _Nullable animation;
+@property (nonatomic, strong) CLLocation * _Nullable coordinates;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull resourceType;)
++ (NSString * _Nonnull)resourceType SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class ThumbnailWrapper;
+
+SWIFT_CLASS("_TtC19SeaworldARFramework15RemoteAnimation")
+@interface RemoteAnimation : Resource
+@property (nonatomic, copy) NSDictionary<NSString *, NSString *> * _Nullable animationFile;
+@property (nonatomic, copy) NSString * _Nullable animationFileName;
+@property (nonatomic, copy) NSString * _Nullable title;
+@property (nonatomic, copy) NSDictionary<NSString *, id> * _Nullable animalDetails;
+@property (nonatomic, strong) ThumbnailWrapper * _Nullable mapThumbnail;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull resourceType;)
++ (NSString * _Nonnull)resourceType SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+/// UIButton Subclass for Capturing Photo and Video with SwiftyCamViewController
+SWIFT_CLASS("_TtC19SeaworldARFramework15SwiftyCamButton")
+@interface SwiftyCamButton : UIButton
+/// Initialization Declaration
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+/// Initialization Declaration
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+/// A class that wraps the thumbnail urls
+/// we recieve from the api
+SWIFT_CLASS("_TtC19SeaworldARFramework16ThumbnailWrapper")
+@interface ThumbnailWrapper : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class NSAttributedString;
+
+@interface UIImage (SWIFT_EXTENSION(SeaworldARFramework)) <NYTPhoto>
+@property (nonatomic, readonly, strong) UIImage * _Nullable image;
+@property (nonatomic, readonly, copy) NSData * _Nullable imageData;
+@property (nonatomic, readonly, strong) UIImage * _Nullable placeholderImage;
+@property (nonatomic, readonly, strong) NSAttributedString * _Nullable attributedCaptionTitle;
+@property (nonatomic, readonly, strong) NSAttributedString * _Nullable attributedCaptionSummary;
+@property (nonatomic, readonly, strong) NSAttributedString * _Nullable attributedCaptionCredit;
 @end
 
 

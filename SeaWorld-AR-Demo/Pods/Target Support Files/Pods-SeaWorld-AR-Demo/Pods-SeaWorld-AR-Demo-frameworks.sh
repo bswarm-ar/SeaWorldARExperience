@@ -112,21 +112,25 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/BrightFutures/BrightFutures.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/FLAnimatedImage/FLAnimatedImage.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/NYTPhotoViewer/NYTPhotoViewer.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Result/Result.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SCNVideoWriter/SCNVideoWriter.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework"
-  install_framework "${PODS_ROOT}/SeaworldARFramework/BswarmFramework.framework"
-  install_framework "${PODS_ROOT}/SeaworldARFramework/SeaworldARFramework.framework"
+  install_framework "${PODS_ROOT}/../../BswarmFramework.framework"
+  install_framework "${PODS_ROOT}/../../SeaworldARFramework.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Spine/Spine.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/BrightFutures/BrightFutures.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/FLAnimatedImage/FLAnimatedImage.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/NYTPhotoViewer/NYTPhotoViewer.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Result/Result.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SCNVideoWriter/SCNVideoWriter.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework"
-  install_framework "${PODS_ROOT}/SeaworldARFramework/BswarmFramework.framework"
-  install_framework "${PODS_ROOT}/SeaworldARFramework/SeaworldARFramework.framework"
+  install_framework "${PODS_ROOT}/../../BswarmFramework.framework"
+  install_framework "${PODS_ROOT}/../../SeaworldARFramework.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Spine/Spine.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework"
 fi

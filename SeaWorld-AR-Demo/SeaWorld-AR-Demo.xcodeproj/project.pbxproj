@@ -7,11 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C6318CF32044F6BB007AC12A /* DisplayAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6318CEA2044F6BA007AC12A /* DisplayAnimationViewController.swift */; };
+		C6066404206B334A00F4AC68 /* MarkerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6066403206B334A00F4AC68 /* MarkerViewController.swift */; };
 		C6318CF52044F6BB007AC12A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6318CEC2044F6BA007AC12A /* ViewController.swift */; };
 		C6318CF62044F6BB007AC12A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6318CEE2044F6BA007AC12A /* LaunchScreen.storyboard */; };
 		C6318CF72044F6BB007AC12A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6318CEF2044F6BA007AC12A /* Assets.xcassets */; };
-		C6318CF82044F6BB007AC12A /* model.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = C6318CF02044F6BA007AC12A /* model.scnassets */; };
 		C6318CF92044F6BB007AC12A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6318CF12044F6BA007AC12A /* AppDelegate.swift */; };
 		C6318CFA2044F6BB007AC12A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6318CF22044F6BB007AC12A /* Main.storyboard */; };
 		CEC3DE7608D0F4AF2261DC86 /* Pods_SeaWorld_AR_Demo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28472D1E1B4798698D897C6A /* Pods_SeaWorld_AR_Demo.framework */; };
@@ -21,13 +20,12 @@
 		28472D1E1B4798698D897C6A /* Pods_SeaWorld_AR_Demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SeaWorld_AR_Demo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38F31D7E87EDDFFAFFA6803F /* Pods-SeaWorld-AR-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SeaWorld-AR-Demo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SeaWorld-AR-Demo/Pods-SeaWorld-AR-Demo.debug.xcconfig"; sourceTree = "<group>"; };
 		6F16FE31BB42E6AFD38C98E3 /* Pods-SeaWorld-AR-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SeaWorld-AR-Demo.release.xcconfig"; path = "Pods/Target Support Files/Pods-SeaWorld-AR-Demo/Pods-SeaWorld-AR-Demo.release.xcconfig"; sourceTree = "<group>"; };
+		C6066403206B334A00F4AC68 /* MarkerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarkerViewController.swift; sourceTree = "<group>"; };
 		C6318CD52044F226007AC12A /* SeaWorld-AR-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SeaWorld-AR-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C6318CEA2044F6BA007AC12A /* DisplayAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayAnimationViewController.swift; sourceTree = "<group>"; };
 		C6318CEB2044F6BA007AC12A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6318CEC2044F6BA007AC12A /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C6318CEE2044F6BA007AC12A /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6318CEF2044F6BA007AC12A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C6318CF02044F6BA007AC12A /* model.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = model.scnassets; sourceTree = "<group>"; };
 		C6318CF12044F6BA007AC12A /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6318CF22044F6BB007AC12A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +59,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		C60663DE206B327500F4AC68 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		C6318CCC2044F226007AC12A = {
 			isa = PBXGroup;
 			children = (
@@ -82,8 +87,9 @@
 		C6318CD72044F226007AC12A /* SeaWorld-AR-Demo */ = {
 			isa = PBXGroup;
 			children = (
+				C6066403206B334A00F4AC68 /* MarkerViewController.swift */,
+				C60663DE206B327500F4AC68 /* Extensions */,
 				C6318CF12044F6BA007AC12A /* AppDelegate.swift */,
-				C6318CEA2044F6BA007AC12A /* DisplayAnimationViewController.swift */,
 				C6318CEB2044F6BA007AC12A /* Info.plist */,
 				C6318CF22044F6BB007AC12A /* Main.storyboard */,
 				C6318CED2044F6BA007AC12A /* Resources */,
@@ -97,7 +103,6 @@
 			children = (
 				C6318CEE2044F6BA007AC12A /* LaunchScreen.storyboard */,
 				C6318CEF2044F6BA007AC12A /* Assets.xcassets */,
-				C6318CF02044F6BA007AC12A /* model.scnassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -166,7 +171,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6318CFA2044F6BB007AC12A /* Main.storyboard in Resources */,
-				C6318CF82044F6BB007AC12A /* model.scnassets in Resources */,
 				C6318CF72044F6BB007AC12A /* Assets.xcassets in Resources */,
 				C6318CF62044F6BB007AC12A /* LaunchScreen.storyboard in Resources */,
 			);
@@ -183,17 +187,21 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-SeaWorld-AR-Demo/Pods-SeaWorld-AR-Demo-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/BrightFutures/BrightFutures.framework",
+				"${BUILT_PRODUCTS_DIR}/FLAnimatedImage/FLAnimatedImage.framework",
+				"${BUILT_PRODUCTS_DIR}/NYTPhotoViewer/NYTPhotoViewer.framework",
 				"${BUILT_PRODUCTS_DIR}/Result/Result.framework",
 				"${BUILT_PRODUCTS_DIR}/SCNVideoWriter/SCNVideoWriter.framework",
 				"${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework",
-				"${PODS_ROOT}/SeaworldARFramework/BswarmFramework.framework",
-				"${PODS_ROOT}/SeaworldARFramework/SeaworldARFramework.framework",
+				"${PODS_ROOT}/../../BswarmFramework.framework",
+				"${PODS_ROOT}/../../SeaworldARFramework.framework",
 				"${BUILT_PRODUCTS_DIR}/Spine/Spine.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/BrightFutures.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FLAnimatedImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NYTPhotoViewer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Result.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SCNVideoWriter.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SSZipArchive.framework",
@@ -248,8 +256,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6318CF92044F6BB007AC12A /* AppDelegate.swift in Sources */,
+				C6066404206B334A00F4AC68 /* MarkerViewController.swift in Sources */,
 				C6318CF52044F6BB007AC12A /* ViewController.swift in Sources */,
-				C6318CF32044F6BB007AC12A /* DisplayAnimationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

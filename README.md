@@ -9,7 +9,7 @@ Simply add the following lines to your podfile
 ```
 pod 'SCNVideoWriter', :git => 'https://github.com/Papercloud/SCNVideoWriter.git'
 pod 'Spine', :git => 'https://github.com/json-api-ios/Spine.git'
-pod 'SeaworldARFramework', :git => 'https://github.com/Papercloud/SeaWorldARExperience.git'
+pod 'SeaworldARFramework', :git => 'https://github.com/bswarm-ar/SeaWorldARExperience.git'
 ```
 
 ## Syncing animations

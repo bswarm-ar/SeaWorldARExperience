@@ -3,6 +3,11 @@
 # Spine
 Spine is a Swift library for working with APIs that adhere to the [jsonapi.org](http://jsonapi.org) standard. It supports mapping to custom model classes, fetching, advanced querying, linking and persisting.
 
+## Mission
+This repo is a continuation of the dead [Spine](https://github.com/wvteijlingen/Spine) project. Our mission is to keep Spine alive and moving forward, with maintenance fixes and new features. Pull Requests are welcome!
+
+Any help is greatly appreciated, feel free to submit pull-requests or open issues.
+
 ## Stability
 This library was born out of a hobby project. Some things are still lacking, one of which is test coverage. Beware of this when using Spine in a production app!
 
@@ -50,10 +55,10 @@ This library was born out of a hobby project. Some things are still lacking, one
 
 ## Installation
 ### Carthage
-Add `github "wvteijlingen/Spine" "master"` to your Cartfile. See the [Carthage documentation](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) for instructions on how to integrate with your project using Xcode.
+Add `github "json-api-ios/Spine" "master"` to your Cartfile. See the [Carthage documentation](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) for instructions on how to integrate with your project using Xcode.
 
 ### Cocoapods
-Add `pod 'Spine', :git => 'https://github.com/wvteijlingen/Spine.git'` to your Podfile. The spec is not yet registered with the Cocoapods repository, because the library is still in flux.
+Add `pod 'Spine', :git => 'https://github.com/json-api-ios/Spine.git'` to your Podfile. The spec is not yet registered with the Cocoapods repository, because the library is still in flux.
 
 ## Configuration
 ### Defining resource types
@@ -155,7 +160,7 @@ Resources can be fetched using find methods:
 // Fetch posts with ID 1 and 2
 spine.find(["1", "2"], ofType: Post).onSuccess { resources, meta, jsonapi in
   println("Fetched resource collection: \(resources)")
-.onFailure { error in
+}.onFailure { error in
   println("Fetching failed: \(error)")
 }
 
@@ -172,7 +177,7 @@ query.addAscendingOrder("creationDate") // Sort on creation date
 
 spine.find(query).onSuccess { resources, meta, jsonapi in
   println("Fetched resource collection: \(resources)")
-.onFailure { error in
+}.onFailure { error in
   println("Fetching failed: \(error)")
 }
 ```
@@ -183,7 +188,7 @@ All fetch methods return a Future with `onSuccess` and `onFailure` callbacks.
 ```swift
 spine.save(post).onSuccess { _ in
     println("Saving success")
-.onFailure { error in
+}.onFailure { error in
     println("Saving failed: \(error)")
 }
 ```
@@ -193,7 +198,7 @@ Extra care MUST be taken regarding related resources. Saving does not automatica
 ```swift
 spine.delete(post).onSuccess {
     println("Deleting success")
-.onFailure { error in
+}.onFailure { error in
     println("Deleting failed: \(error)")
 }
 ```

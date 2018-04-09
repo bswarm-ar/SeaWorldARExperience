@@ -1,6 +1,6 @@
 PODS:
-  - BrightFutures (5.2.0):
-    - Result (~> 3.2)
+  - BrightFutures (6.0.1):
+    - Result (~> 3.2.4)
   - FLAnimatedImage (1.0.12)
   - NYTPhotoViewer (2.0.0):
     - NYTPhotoViewer/AnimatedGifSupport (= 2.0.0)
@@ -17,44 +17,47 @@ PODS:
     - SCNVideoWriter
     - Spine
     - SSZipArchive (~> 1.6.2)
-  - Spine (0.3):
-    - BrightFutures (~> 5.0)
-    - SwiftyJSON (~> 3.1.4)
+  - Spine (0.4):
+    - BrightFutures
+    - SwiftyJSON
   - SSZipArchive (1.6.2)
-  - SwiftyJSON (3.1.4)
+  - SwiftyJSON (4.0.0)
 
 DEPENDENCIES:
   - SCNVideoWriter (from `https://github.com/Papercloud/SCNVideoWriter.git`)
-  - SeaworldARFramework (from `../SeaworldARFramework.podspec`)
-  - Spine (from `https://github.com/Papercloud/Spine.git`)
+  - SeaworldARFramework (from `https://github.com/Papercloud/SeaWorldARExperience.git`)
+  - Spine (from `https://github.com/json-api-ios/Spine.git`)
 
 EXTERNAL SOURCES:
   SCNVideoWriter:
     :git: https://github.com/Papercloud/SCNVideoWriter.git
   SeaworldARFramework:
-    :path: ../SeaworldARFramework.podspec
+    :git: https://github.com/Papercloud/SeaWorldARExperience.git
   Spine:
-    :git: https://github.com/Papercloud/Spine.git
+    :git: https://github.com/json-api-ios/Spine.git
 
 CHECKOUT OPTIONS:
   SCNVideoWriter:
     :commit: 7709067b1bfd866e0fc9d02949c70370501594f0
     :git: https://github.com/Papercloud/SCNVideoWriter.git
+  SeaworldARFramework:
+    :commit: fd723addc29f0ee47d7164a483768fa936a41660
+    :git: https://github.com/Papercloud/SeaWorldARExperience.git
   Spine:
-    :commit: 626c1fd7c8f6531a79c8f6826309b375dd8e39ae
-    :git: https://github.com/Papercloud/Spine.git
+    :commit: 0eea26afba5f4b53c25e27123f68a4584000974a
+    :git: https://github.com/json-api-ios/Spine.git
 
 SPEC CHECKSUMS:
-  BrightFutures: 8681dbb9fa831b69b6e7dc4a498b9e081d5daeb5
+  BrightFutures: 9c03dab79e73ffe504b7bafc15c5bfdaeee54890
   FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
   NYTPhotoViewer: 34b8bd6bcc297466adec1668f9a01249d73c90e6
   Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
   SCNVideoWriter: cc277dde2b4cc905d06f0a262f1f50b777e7a32d
   SeaworldARFramework: 1a84c62e4e9b063cd48b8ae8b1a6f339ee51faf7
-  Spine: 9a5076f732897dc67c0303b4b3d871cfee903efa
+  Spine: b6cd2409c852db86c6c446c5777690183499764f
   SSZipArchive: 428eb1ac8d37dd133404d30f422b23958c1f9acc
-  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
-PODFILE CHECKSUM: ef81396775bb8952f2e10607d68a01787f03fd91
+PODFILE CHECKSUM: e5855fcfd4989f6fbed2d665062dc6eecb7227ab
 
-COCOAPODS: 1.4.0.beta.2
+COCOAPODS: 1.4.0

@@ -36,7 +36,7 @@ class DeserializeOperation: Operation {
 	// MARK: -
 	
 	init(data: Data, resourceFactory: ResourceFactory, valueFormatters: ValueFormatterRegistry, keyFormatter: KeyFormatter) {
-		self.data = JSON(data: data)
+		self.data = JSON(data)
 		self.resourceFactory = resourceFactory
 		self.valueFormatters = valueFormatters
 		self.keyFormatter = keyFormatter
@@ -126,7 +126,9 @@ class DeserializeOperation: Operation {
 			extractedLinks = [:]
 			
 			for (key, value) in links {
-				extractedLinks![key] = URL(string: value.stringValue)!
+				if let linkURL = URL(string: value.stringValue) {
+					extractedLinks![key] = linkURL
+				}
 			}
 		}
 		

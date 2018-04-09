@@ -13,10 +13,10 @@ public typealias ResourceType = String
 /// A ResourceIdentifier uniquely identifies a resource that exists on the server.
 public struct ResourceIdentifier: Equatable {
 	/// The resource type.
-	var type: ResourceType
+	public private(set) var type: ResourceType
 	
 	/// The resource ID.
-	var id: String
+	public private(set) var id: String
 
 	/// Constructs a new ResourceIdentifier instance with given `type` and `id`.
 	init(type: ResourceType, id: String) {
@@ -32,7 +32,7 @@ public struct ResourceIdentifier: Equatable {
 	}
 
 	/// Returns a dictionary with "type" and "id" keys containing the type and id.
-	func toDictionary() -> NSDictionary {
+	public func toDictionary() -> NSDictionary {
 		return ["type": type, "id": id]
 	}
 }
@@ -79,6 +79,7 @@ struct RelationshipData {
 
 /// A base recource class that provides some defaults for resources.
 /// You can create custom resource classes by subclassing from Resource.
+@objcMembers
 open class Resource: NSObject, NSCoding {
 	/// The resource type in plural form.
 	open class var resourceType: ResourceType {
@@ -162,7 +163,7 @@ open class Resource: NSObject, NSCoding {
 
 extension Resource {
 	override open var description: String {
-		return "\(resourceType)(\(id), \(url))"
+		return "\(resourceType)" + String(describing: id) + "," + String(describing: url)
 	}
 	
 	override open var debugDescription: String {

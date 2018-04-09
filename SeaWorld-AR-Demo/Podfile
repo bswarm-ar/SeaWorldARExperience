@@ -7,17 +7,7 @@ target 'SeaWorld-AR-Demo' do
 
   # Pods for SeaWorld-AR-Demo
   pod 'SCNVideoWriter', :git => 'https://github.com/Papercloud/SCNVideoWriter.git'
-  pod 'Spine', :git => 'https://github.com/Papercloud/Spine.git'
+  pod 'Spine', :git => 'https://github.com/json-api-ios/Spine.git'
   pod 'SeaworldARFramework', :git => 'https://github.com/Papercloud/SeaWorldARExperience.git'
-end
 
-post_install do |installer|
-    # Temporary workaround for old pods - whilst CocoaPods 1.4.0 has support for Swift-Versions
-    installer.pods_project.targets.each do |target|
-        if ['Spine', 'BrightFutures'].include? target.name
-            target.build_configurations.each do |config|
-                config.build_settings['SWIFT_VERSION'] = '3.2'
-            end
-        end
-    end
 end

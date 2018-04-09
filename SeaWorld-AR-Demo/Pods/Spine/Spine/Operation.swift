@@ -192,7 +192,7 @@ class DeleteOperation: ConcurrentOperation {
 			}
 			
 			if statusCodeIsSuccess(statusCode) {
-				self.result = .success()
+				self.result = .success(())
 			} else if let data = responseData , data.count > 0 {
 				do {
 					let document = try self.serializer.deserializeData(data)
@@ -260,7 +260,7 @@ class SaveOperation: ConcurrentOperation {
 		} else {
 			url = router.urlForQuery(Query(resource: resource))
 			method = "PATCH"
-            options = [.IncludeID, .OmitNullValues]
+			options = [.IncludeID]
 		}
 		
 		let payload: Data
@@ -299,7 +299,7 @@ class SaveOperation: ConcurrentOperation {
 			}
 			
 			if success {
-				self.result = .success()
+				self.result = .success(())
 			} else {
 				self.result = .failure(.serverError(statusCode: statusCode!, apiErrors: document?.errors))
 			}
@@ -318,7 +318,7 @@ class SaveOperation: ConcurrentOperation {
 
 	fileprivate func updateRelationships() {
 		let relationships = resource.fields.filter { field in
-			return field is Relationship && !field.isReadOnly && field.isUpdatable
+			return field is Relationship && !field.isReadOnly
 		}
 		
 		guard !relationships.isEmpty else {
@@ -379,7 +379,7 @@ private class RelationshipOperation: ConcurrentOperation {
 		}
 		
 		if statusCodeIsSuccess(statusCode) {
-			self.result = .success()
+			self.result = .success(())
 		} else if let data = responseData, data.count > 0 {
 			do {
 				let document = try serializer.deserializeData(data)
@@ -458,7 +458,7 @@ private class RelationshipMutateOperation: RelationshipOperation {
 		}
 		
 		guard !relatedResources.isEmpty else {
-			result = .success()
+			result = .success(())
 			state = .finished
 			return
 		}

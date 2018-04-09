@@ -192,8 +192,8 @@
 				"${BUILT_PRODUCTS_DIR}/Result/Result.framework",
 				"${BUILT_PRODUCTS_DIR}/SCNVideoWriter/SCNVideoWriter.framework",
 				"${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework",
-				"${PODS_ROOT}/../../BswarmFramework.framework",
-				"${PODS_ROOT}/../../SeaworldARFramework.framework",
+				"${PODS_ROOT}/SeaworldARFramework/BswarmFramework.framework",
+				"${PODS_ROOT}/SeaworldARFramework/SeaworldARFramework.framework",
 				"${BUILT_PRODUCTS_DIR}/Spine/Spine.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 			);
@@ -380,6 +380,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DFA43C329P;
 				INFOPLIST_FILE = "SeaWorld-AR-Demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.bswarm.SeaWorld-AR-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -398,6 +399,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DFA43C329P;
 				INFOPLIST_FILE = "SeaWorld-AR-Demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.bswarm.SeaWorld-AR-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";

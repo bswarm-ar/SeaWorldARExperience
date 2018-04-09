@@ -8,25 +8,9 @@ Simply add the following lines to your podfile
 
 ```
 pod 'SCNVideoWriter', :git => 'https://github.com/Papercloud/SCNVideoWriter.git'
-pod 'Spine', :git => 'https://github.com/Papercloud/Spine.git'
+pod 'Spine', :git => 'https://github.com/json-api-ios/Spine.git'
 pod 'SeaworldARFramework', :git => 'https://github.com/Papercloud/SeaWorldARExperience.git'
 ```
-
-### Warning
-Both Spine and SCNVideoWriter are 3.2 currently, if you're not using the latest cocoapods the installation will set them to match the project swift version. To fix this add 
-```
-post_install do |installer|
-    # Temporary workaround for old pods - whilst CocoaPods 1.4.0 has support for Swift-Versions
-    installer.pods_project.targets.each do |target|
-        if ['Spine', 'BrightFutures'].include? target.name
-            target.build_configurations.each do |config|
-                config.build_settings['SWIFT_VERSION'] = '3.2'
-            end
-        end
-    end
-end
-```
- to the bottom of your podfile
 
 ## Syncing animations
 

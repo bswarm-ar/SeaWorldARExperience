@@ -6,19 +6,19 @@
 	<dict>
 		<key>Animation.storyboardc/AnimationViewController.nib/objects-11.0+.nib</key>
 		<data>
-		lRHnyVb8BO8ceG0lKlFsk66mTQo=
+		uOrMf7WZ/6ScUJ2f32pJSlPrd/w=
 		</data>
 		<key>Animation.storyboardc/AnimationViewController.nib/runtime.nib</key>
 		<data>
-		2HAt580OVOj/DXCNC7jfSNZhBHc=
+		rywuDgrsZuO7BfppDSAKtNQEHQ0=
 		</data>
 		<key>Animation.storyboardc/DisplayAnimationViewController.nib/objects-11.0+.nib</key>
 		<data>
-		c/sQ21RJn4D0KcclFa5IYr5eEz0=
+		snp+v8SR1QiR02/i+8gjdUghA3o=
 		</data>
 		<key>Animation.storyboardc/DisplayAnimationViewController.nib/runtime.nib</key>
 		<data>
-		fI9cf2Acd3f1wtijCGx1Vj2HGo8=
+		2U6RhtSDnXKsXtitVRr5bMsFu9I=
 		</data>
 		<key>Animation.storyboardc/Info.plist</key>
 		<data>
@@ -26,39 +26,39 @@
 		</data>
 		<key>Animation.storyboardc/nz8-kc-VYk-view-mgv-i9-9wY.nib/objects-11.0+.nib</key>
 		<data>
-		RoyGyPO1M8HD9yi7LZVMk0G6wBo=
+		2o9+i41auRWySYiq1WZH4DTmffk=
 		</data>
 		<key>Animation.storyboardc/nz8-kc-VYk-view-mgv-i9-9wY.nib/runtime.nib</key>
 		<data>
-		1Baijs9vr7kCz2NeVkMCn9mYBlw=
+		Crmd7LqFX83BSDtsGlfbQfOfuuk=
 		</data>
 		<key>Animation.storyboardc/yij-zJ-7fK-view-M3A-AD-PwD.nib/objects-11.0+.nib</key>
 		<data>
-		fgmXf1L47XqEQN3InR4yhr+K2oM=
+		00BXwTl5XcMr5YAoW7K/hvsR38s=
 		</data>
 		<key>Animation.storyboardc/yij-zJ-7fK-view-M3A-AD-PwD.nib/runtime.nib</key>
 		<data>
-		/tYEDF9QLwaEjkNefwAnD+yZ8LU=
+		B6sYc0QGKRu7SLB6tjcvjJClAVg=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		hnYQp+NTeV59vw+bToeHnzdiOQc=
+		emd0BIed0kWl3nfMh8y/yq+cR34=
 		</data>
 		<key>Character.storyboardc/887-qN-2ya-view-ONv-n7-KaD.nib/objects-11.0+.nib</key>
 		<data>
-		JO6sl4E+8iPLiGSGgL0+GowmnqY=
+		CcZFZ6rffgB2ao38srkUvSQhrg4=
 		</data>
 		<key>Character.storyboardc/887-qN-2ya-view-ONv-n7-KaD.nib/runtime.nib</key>
 		<data>
-		K3IW5kMxkHH3MVPCJfO9TlgMd0U=
+		JymJrMUr90V3OZXz0xHPK8dowA0=
 		</data>
 		<key>Character.storyboardc/CardGridViewController.nib/objects-11.0+.nib</key>
 		<data>
-		oZsvMskcrL/9s8R3RChLdFUzaBU=
+		Epf7cbhM42g/LqdO0Du9wMFaSw4=
 		</data>
 		<key>Character.storyboardc/CardGridViewController.nib/runtime.nib</key>
 		<data>
-		ecpEbJ8fWzcpyO4Nd9T/mzk8SgM=
+		hy2L+5GjuvTGb4Sr5l5O5bSgo+k=
 		</data>
 		<key>Character.storyboardc/Info.plist</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Fetch.storyboardc/FetchAnimViewController.nib</key>
 		<data>
-		d9j4lJxfzPlJ5lcxKhOjZAauCas=
+		LTsGThcgP4X3oG1fQMhFUphpPx8=
 		</data>
 		<key>Fetch.storyboardc/Info.plist</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Fetch.storyboardc/qE4-t8-tqY-view-JID-Db-NQ7.nib</key>
 		<data>
-		gj43YJGaEEyCT6K7at2LzphmPGI=
+		NdSGk9dshzNO4d/f/Pb39/E3opE=
 		</data>
 		<key>Headers/SeaworldARFramework-Swift.h</key>
 		<data>
-		jBJHvBoDaRVnplXuaoGDx9Hu0Ig=
+		chjDhShW7IzJzmv3WgvHhPncLLE=
 		</data>
 		<key>Headers/SeaworldARFramework-umbrella.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Host.storyboardc/HostViewController.nib/objects-11.0+.nib</key>
 		<data>
-		lWKTYr0N+eXyxvcxy658dxU6uQI=
+		lVEN2MgV3/H7kekObv+Pm5N5csg=
 		</data>
 		<key>Host.storyboardc/HostViewController.nib/runtime.nib</key>
 		<data>
-		dCqiT0IDkS2IQA/z+ZnTTUGaVso=
+		AHuqAp2nG0fpTfMgY+g8iV53CQs=
 		</data>
 		<key>Host.storyboardc/Info.plist</key>
 		<data>
@@ -98,23 +98,23 @@
 		</data>
 		<key>Host.storyboardc/O1F-0h-go3-view-q5b-7H-NwB.nib/objects-11.0+.nib</key>
 		<data>
-		4L5KsBGm02P9pdsWi5+Qp4IY4To=
+		pJ1TBEF4ZvUapVh9UP0dpTeRc8Q=
 		</data>
 		<key>Host.storyboardc/O1F-0h-go3-view-q5b-7H-NwB.nib/runtime.nib</key>
 		<data>
-		7ryHGNGFubMV0v3eCx/NTGbZyHc=
+		rpDDuB5vAzCAXhFx4qy5Tq1EeLk=
 		</data>
 		<key>Host.storyboardc/UINavigationController-pa5-LE-9MV.nib/objects-11.0+.nib</key>
 		<data>
-		q+vrtyTrRIB/TtRMKHX0nega20M=
+		MVSH8JzzHg4nW3725g+kj8K5Heg=
 		</data>
 		<key>Host.storyboardc/UINavigationController-pa5-LE-9MV.nib/runtime.nib</key>
 		<data>
-		uhiplIsBQ3T9v71q6TEsSF0780w=
+		XmwtUJQmsME/B88e5G/fvtmSvvE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Tkr4ANf2vkJGN9cKxoxQHX+AF1w=
+		P9f0FcQ0AZcPnxlu38P8JOYipdw=
 		</data>
 		<key>Map.storyboardc/Info.plist</key>
 		<data>
@@ -122,27 +122,27 @@
 		</data>
 		<key>Map.storyboardc/MapViewController.nib</key>
 		<data>
-		Qb7qiNAA+rznkxmaVB0DiNRypy8=
+		CdCDTHGKOZosU7v+oDNwIB9hnP4=
 		</data>
 		<key>Map.storyboardc/VDr-gp-5ew-view-a5e-0m-zJc.nib</key>
 		<data>
-		/3/c7FUx/+Ld+OKzYNICJ5Ac1XU=
+		cPUJOIuH0+U0QLeMjkuPhZNq5mI=
 		</data>
 		<key>Modules/SeaworldARFramework.swiftmodule/i386.swiftdoc</key>
 		<data>
-		Xhas7bjqW/D224mkDjZdKwaPJck=
+		JeDe5SZXIPeEI6V4IYpw92nBUqg=
 		</data>
 		<key>Modules/SeaworldARFramework.swiftmodule/i386.swiftmodule</key>
 		<data>
-		NgV537Py9dtL0713+M3olsRk8dg=
+		RD1MfDuK3gKICbVJCtFOlXzWK0o=
 		</data>
 		<key>Modules/SeaworldARFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		XN8EuK888yz6DaLzgqb9Ij1FrRg=
+		GeRQh6Uwj1Xujlg0bYibGePzvXU=
 		</data>
 		<key>Modules/SeaworldARFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		ZmNp+qnZi2d1M6obInBvhIvKmeY=
+		iMksBeQiREfqJMymmpf5NYI5Cgk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -150,19 +150,19 @@
 		</data>
 		<key>Record.storyboardc/AVPlayerViewController-d9P-Y8-w3p.nib/objects-11.0+.nib</key>
 		<data>
-		9bOJ6Lr6etqJSmBHVdEH/tSrIp8=
+		0yk0UfkwgTgdkq6QP/dE/VuGrR8=
 		</data>
 		<key>Record.storyboardc/AVPlayerViewController-d9P-Y8-w3p.nib/runtime.nib</key>
 		<data>
-		59BBWuLfOpOYtoOTNW/YOtcEsqQ=
+		HVMZZ7RTyuqlaXjcx7+akThJSeo=
 		</data>
 		<key>Record.storyboardc/CSd-Ye-C9L-view-aHg-7N-rYj.nib/objects-11.0+.nib</key>
 		<data>
-		ScEiHiV0+zFMzt/GTD0xoBBeEPs=
+		Rmpbb01ur2uaQ8uHCp9yrBDUFIA=
 		</data>
 		<key>Record.storyboardc/CSd-Ye-C9L-view-aHg-7N-rYj.nib/runtime.nib</key>
 		<data>
-		usdVpA11qnzf8OFc2Yp9Ay6koz4=
+		q2eNZJCfGctJYQfPBY8S5YAcOYA=
 		</data>
 		<key>Record.storyboardc/Info.plist</key>
 		<data>
@@ -170,27 +170,31 @@
 		</data>
 		<key>Record.storyboardc/MoviePlayerViewController.nib/objects-11.0+.nib</key>
 		<data>
-		rcUhFfGLgBo1cE4i9XZ9RoPRz0o=
+		/MINtpmJ7B9fLWChvfdtnt74zSM=
 		</data>
 		<key>Record.storyboardc/MoviePlayerViewController.nib/runtime.nib</key>
 		<data>
-		terwvb8eoUXAkBpVYaWpoTe0c6o=
+		ONSHx4ZBMpUWEZm0Qc9V7dfc+as=
 		</data>
 		<key>Record.storyboardc/PhotoViewerViewController.nib/objects-11.0+.nib</key>
 		<data>
-		mdWC8B0IIzAZzBJ3XPbneT0uIyU=
+		//UWiEWk+td8NWF3PZYgk6jlXIg=
 		</data>
 		<key>Record.storyboardc/PhotoViewerViewController.nib/runtime.nib</key>
 		<data>
-		5N4ZToTVIcYX6Un+hvOn6gQsCis=
+		D12sOPthY0LYp2i8ac6l1TbzFOc=
 		</data>
 		<key>Record.storyboardc/cap-aL-DuL-view-j02-Vf-TG7.nib/objects-11.0+.nib</key>
 		<data>
-		ccWJoOeJ4xjcjv8fAwQ7wsxZPIU=
+		9PW3dekxtKp64G78g3/ZR6qFszk=
 		</data>
 		<key>Record.storyboardc/cap-aL-DuL-view-j02-Vf-TG7.nib/runtime.nib</key>
 		<data>
-		LyT7HNRB6a0wdPTcoLzKuY/OYQ0=
+		7knSNDWZi4TnTleKtXktYmZle4U=
+		</data>
+		<key>museosans-700.ttf</key>
+		<data>
+		qyt7/6ZzXgKYLFR3OdPnytnxbGk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -199,44 +203,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lRHnyVb8BO8ceG0lKlFsk66mTQo=
+			uOrMf7WZ/6ScUJ2f32pJSlPrd/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			ojGeDh7jfJ7XQi8Tj+JuE4YQipJ2Xrd5n5x6Uipymow=
+			JZQT2drc6Sb/0aErebO8jeR4paXbuqflQ8QubXP1F9s=
 			</data>
 		</dict>
 		<key>Animation.storyboardc/AnimationViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2HAt580OVOj/DXCNC7jfSNZhBHc=
+			rywuDgrsZuO7BfppDSAKtNQEHQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			90jA2GCdB8nlHpd+V5/J1kcxVw9lWsXqHPaDc7PRXNY=
+			VjWSkFPvb4gg9iDSwUeXLrB8lsC2iRQN/Bbt6BzRUD4=
 			</data>
 		</dict>
 		<key>Animation.storyboardc/DisplayAnimationViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c/sQ21RJn4D0KcclFa5IYr5eEz0=
+			snp+v8SR1QiR02/i+8gjdUghA3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			FoWssltDKADtN39TeHfUoflaHshWNzs0cC1ROghVmnQ=
+			QWVpCRNwT79Oorjtl2CXlX0D7MWvbMghQ0JZzEK+lkQ=
 			</data>
 		</dict>
 		<key>Animation.storyboardc/DisplayAnimationViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fI9cf2Acd3f1wtijCGx1Vj2HGo8=
+			2U6RhtSDnXKsXtitVRr5bMsFu9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			/zM26C3o6O0dlT5cUt4viSQDWu1AYqg5W12m3HZxvIU=
+			i5tPpiudXhoX1pOLQgty40QjamG0tMGl2qPGwld0WmU=
 			</data>
 		</dict>
 		<key>Animation.storyboardc/Info.plist</key>
@@ -254,99 +258,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RoyGyPO1M8HD9yi7LZVMk0G6wBo=
+			2o9+i41auRWySYiq1WZH4DTmffk=
 			</data>
 			<key>hash2</key>
 			<data>
-			tsdGrNMgdb9iTBSPfkttZkUmDKv+yRcwUirpOICIaqY=
+			/UeSyZUDr9vPC6OhsfMMz64kDp6m861DlxZ/QSTA93A=
 			</data>
 		</dict>
 		<key>Animation.storyboardc/nz8-kc-VYk-view-mgv-i9-9wY.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1Baijs9vr7kCz2NeVkMCn9mYBlw=
+			Crmd7LqFX83BSDtsGlfbQfOfuuk=
 			</data>
 			<key>hash2</key>
 			<data>
-			KeeQ5oHxGFNDRad/IQMi8Tm8tzXXEoh+aP4DCXc3k9E=
+			sppU+C2xz7WSe76fNzXOp2ZsNO651XejCfuntGssVFY=
 			</data>
 		</dict>
 		<key>Animation.storyboardc/yij-zJ-7fK-view-M3A-AD-PwD.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fgmXf1L47XqEQN3InR4yhr+K2oM=
+			00BXwTl5XcMr5YAoW7K/hvsR38s=
 			</data>
 			<key>hash2</key>
 			<data>
-			oDdg3bovEdjQB2Y2BFsSrp0P/Yd4Yf9TCNnBcJQtYss=
+			CQVpM3kerRFqbhtAmULetIwm2FBfJyJwYz/W2HkULm4=
 			</data>
 		</dict>
 		<key>Animation.storyboardc/yij-zJ-7fK-view-M3A-AD-PwD.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/tYEDF9QLwaEjkNefwAnD+yZ8LU=
+			B6sYc0QGKRu7SLB6tjcvjJClAVg=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZoo5AIwD+VkwKE9i7H90eYdtBH6fqRv5nQa1V3QMLA=
+			uCALKhRjs9q8IXKuzkjZuLJlChW9LpFTuOqtdhkAt38=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hnYQp+NTeV59vw+bToeHnzdiOQc=
+			emd0BIed0kWl3nfMh8y/yq+cR34=
 			</data>
 			<key>hash2</key>
 			<data>
-			pqu74Z4IkF/M576CnYAIZPG2itQrCIFDPyQVieTEUDo=
+			ZCw7twW3CoVoExmwEX2RS6x+qJ/CWzFFSEQAk5h1MLk=
 			</data>
 		</dict>
 		<key>Character.storyboardc/887-qN-2ya-view-ONv-n7-KaD.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JO6sl4E+8iPLiGSGgL0+GowmnqY=
+			CcZFZ6rffgB2ao38srkUvSQhrg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			twIwfotpSQD2SCLZpzFH3Y2QuhLE8C6LBPYEmY8hOBM=
+			lLmmsW1fG26obY1y39mqwnpcDRl6J4gzJfCxjwj1Ty4=
 			</data>
 		</dict>
 		<key>Character.storyboardc/887-qN-2ya-view-ONv-n7-KaD.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K3IW5kMxkHH3MVPCJfO9TlgMd0U=
+			JymJrMUr90V3OZXz0xHPK8dowA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QfXLP+aiWHjt9ulM3zyPkPZKl57GbvQKkGaGCLoR/d4=
+			25CJTXjLmXbTvxmH6nGOQ6iVDcjmD1l5Ha6Ns+QM57E=
 			</data>
 		</dict>
 		<key>Character.storyboardc/CardGridViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oZsvMskcrL/9s8R3RChLdFUzaBU=
+			Epf7cbhM42g/LqdO0Du9wMFaSw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dd29WoVyFjxXGGLACcdGEwK0YtPdd54pM5uZKMm2Ygo=
+			8ccryK4pIllPylBnXOQ0whh0M/PIxrULdooBsUGmvZY=
 			</data>
 		</dict>
 		<key>Character.storyboardc/CardGridViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ecpEbJ8fWzcpyO4Nd9T/mzk8SgM=
+			hy2L+5GjuvTGb4Sr5l5O5bSgo+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jheilt10cWFBlC0mzQie+Gf4lWA8ewzStzqXspUv7XM=
+			g2AEacFlL8kn/cnojeL9waJ8RGuV4oBhiagp4P4ZOZw=
 			</data>
 		</dict>
 		<key>Character.storyboardc/Info.plist</key>
@@ -364,11 +368,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d9j4lJxfzPlJ5lcxKhOjZAauCas=
+			LTsGThcgP4X3oG1fQMhFUphpPx8=
 			</data>
 			<key>hash2</key>
 			<data>
-			/w71z5dNE6a4xfRmqA1fX6jNR8OcVKfi21kmQ2O5v3o=
+			LOMvi89RSIA1d1Y1QFGjFEiDeHHif0g3jA66LIzUH8I=
 			</data>
 		</dict>
 		<key>Fetch.storyboardc/Info.plist</key>
@@ -386,22 +390,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gj43YJGaEEyCT6K7at2LzphmPGI=
+			NdSGk9dshzNO4d/f/Pb39/E3opE=
 			</data>
 			<key>hash2</key>
 			<data>
-			LmULQ+QO03WbznJyqz9lI0Ka0ZeiKPgnP6qPe2z2WZo=
+			tpVMH0t4onlwrTesbmJQSlIa/0es6oyS6/He/t8n0CA=
 			</data>
 		</dict>
 		<key>Headers/SeaworldARFramework-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jBJHvBoDaRVnplXuaoGDx9Hu0Ig=
+			chjDhShW7IzJzmv3WgvHhPncLLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			33yyaDG6bHexY5E8nqtVKzTcR5yCUOcKfxIbMjOP2mY=
+			1ZvcpPUYpJo7zKJINNtgnayeWcp2Eee2OOrcJpOwttI=
 			</data>
 		</dict>
 		<key>Headers/SeaworldARFramework-umbrella.h</key>
@@ -419,22 +423,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lWKTYr0N+eXyxvcxy658dxU6uQI=
+			lVEN2MgV3/H7kekObv+Pm5N5csg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jy8ApD/OCIxrzrzOkL/kM0e4iiUUqGaotKPfi1z2FGk=
+			e/4OLYh8ErZE1qZa8w8ati+hhKCZwvrZWnfCsMZuvMk=
 			</data>
 		</dict>
 		<key>Host.storyboardc/HostViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dCqiT0IDkS2IQA/z+ZnTTUGaVso=
+			AHuqAp2nG0fpTfMgY+g8iV53CQs=
 			</data>
 			<key>hash2</key>
 			<data>
-			/AcUES+PDYwa18FFqSd3oOh8MhdANNn7SSwLdhYUvzs=
+			3PO5K9VqK5VYr2yMpOcBvEIhj2t1y2M3s27JwbmZZTw=
 			</data>
 		</dict>
 		<key>Host.storyboardc/Info.plist</key>
@@ -452,44 +456,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4L5KsBGm02P9pdsWi5+Qp4IY4To=
+			pJ1TBEF4ZvUapVh9UP0dpTeRc8Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			WHO6VXKpQ4X5OOKSUKeJ68hmtb/5PC5eTdLDxtRepfw=
+			UTCcWy/NHLi3UpnhXuZymOcRuXL3EEefkUPpEtVka5Q=
 			</data>
 		</dict>
 		<key>Host.storyboardc/O1F-0h-go3-view-q5b-7H-NwB.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7ryHGNGFubMV0v3eCx/NTGbZyHc=
+			rpDDuB5vAzCAXhFx4qy5Tq1EeLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			RkPw++4CjraqCRYjiKu9KMqV+YV7mLiJ7R7ZNjVU0OE=
+			wbDqy8n9pMZLPe3b/kyjrSxwJKsl2OFaZ87hKld3kb8=
 			</data>
 		</dict>
 		<key>Host.storyboardc/UINavigationController-pa5-LE-9MV.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q+vrtyTrRIB/TtRMKHX0nega20M=
+			MVSH8JzzHg4nW3725g+kj8K5Heg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZEPgXKFjXgKx3MPZs8oLVS6v9zikRBJ/+jSIYcMMN7o=
+			EBzZ/IMxm2h3ZlkMw2MJgGejBoMGtRqu+XFQ7qsw1RM=
 			</data>
 		</dict>
 		<key>Host.storyboardc/UINavigationController-pa5-LE-9MV.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uhiplIsBQ3T9v71q6TEsSF0780w=
+			XmwtUJQmsME/B88e5G/fvtmSvvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			L5HntOCTmiaXYJt2GJWEKMQ0waQcVkbhXbI5dV1Wmy8=
+			4BAKGbnqiyu1hEoaBvIBr9f8Z3oY4kp0y2o+nt2hSkI=
 			</data>
 		</dict>
 		<key>Map.storyboardc/Info.plist</key>
@@ -507,66 +511,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Qb7qiNAA+rznkxmaVB0DiNRypy8=
+			CdCDTHGKOZosU7v+oDNwIB9hnP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			MVt4SKv8KqqAS6eVbk6p/RfkUxjjfyGg09kvMAdNJ9g=
+			nSnz5m1HNLFoebehYK4rBiV6VfHHtpU87Q4DeqeRtSQ=
 			</data>
 		</dict>
 		<key>Map.storyboardc/VDr-gp-5ew-view-a5e-0m-zJc.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/3/c7FUx/+Ld+OKzYNICJ5Ac1XU=
+			cPUJOIuH0+U0QLeMjkuPhZNq5mI=
 			</data>
 			<key>hash2</key>
 			<data>
-			KcVFBR+TRyDI6y6kWmmSPuI7SonIQFKenrkP2j5QNRw=
+			NEFcjcEUEKU2a9N6F9uxXnnRiIBbZ6ITW8dXoq0b3RE=
 			</data>
 		</dict>
 		<key>Modules/SeaworldARFramework.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xhas7bjqW/D224mkDjZdKwaPJck=
+			JeDe5SZXIPeEI6V4IYpw92nBUqg=
 			</data>
 			<key>hash2</key>
 			<data>
-			kdw6vS2W3LQQyZv3v0HegdfhH5yUErtZbFghMOFTkGw=
+			uIe108BHRawCBM2Srz0H1d8QGKsLRdjK2Dg/WUmQ9sY=
 			</data>
 		</dict>
 		<key>Modules/SeaworldARFramework.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NgV537Py9dtL0713+M3olsRk8dg=
+			RD1MfDuK3gKICbVJCtFOlXzWK0o=
 			</data>
 			<key>hash2</key>
 			<data>
-			EMV9iLQnnh6kQ7ouPFl9m3a7gUk6JrjunXaX50/m00Y=
+			JpPrIExBgED9wGbyPq6XtCWdTXPNQdHKZrezIkIAURk=
 			</data>
 		</dict>
 		<key>Modules/SeaworldARFramework.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XN8EuK888yz6DaLzgqb9Ij1FrRg=
+			GeRQh6Uwj1Xujlg0bYibGePzvXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4+Z0gHX8pp+fJMIULmt8Ngg1Wr9cy0/XaJp4sBH6XJg=
+			Fv2rC6KgZgjbYSL9ZMM5SdisRQs9dxY0Q2hpYlOUObk=
 			</data>
 		</dict>
 		<key>Modules/SeaworldARFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZmNp+qnZi2d1M6obInBvhIvKmeY=
+			iMksBeQiREfqJMymmpf5NYI5Cgk=
 			</data>
 			<key>hash2</key>
 			<data>
-			0fjdwrloKOoH1qlqOXjoUG3fMT1hwB9ox8psOpPt2Uo=
+			UOBMzSea/JfTLE3kvnzzftPi62oiK8BDcRPKEWbJQKQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -584,44 +588,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9bOJ6Lr6etqJSmBHVdEH/tSrIp8=
+			0yk0UfkwgTgdkq6QP/dE/VuGrR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XAcMeihaqzm9DTYQWOtm6Gf36Sz+2I6OTrHWaT7bK4M=
+			5lQUJrJSPfxYlteqrYXQpJdioJH7NIZtr0UJmOUVOc0=
 			</data>
 		</dict>
 		<key>Record.storyboardc/AVPlayerViewController-d9P-Y8-w3p.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			59BBWuLfOpOYtoOTNW/YOtcEsqQ=
+			HVMZZ7RTyuqlaXjcx7+akThJSeo=
 			</data>
 			<key>hash2</key>
 			<data>
-			mMZc6apgiEZobG8zUW9zzoJJWANac+ya/hk9tC9cjis=
+			/wgWH5ACBW0wvL1tHjHVntWiuZwe1+GCB+nkCEa5+Eg=
 			</data>
 		</dict>
 		<key>Record.storyboardc/CSd-Ye-C9L-view-aHg-7N-rYj.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ScEiHiV0+zFMzt/GTD0xoBBeEPs=
+			Rmpbb01ur2uaQ8uHCp9yrBDUFIA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Uac58umX3chUI9SDuHt8lAxuw0LVnI715c4/xCgsiIQ=
+			R8zYdI+82PoT1TaKy+5C7qYESAXwlRO6p3BMdzsy8+U=
 			</data>
 		</dict>
 		<key>Record.storyboardc/CSd-Ye-C9L-view-aHg-7N-rYj.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			usdVpA11qnzf8OFc2Yp9Ay6koz4=
+			q2eNZJCfGctJYQfPBY8S5YAcOYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZIkdc4j7CpfODkmp5Urmfnb3xI2LGSRcctP7+9+xkuQ=
+			dF3prkWfmxqVXe6gTFSEQ8zh76qeJApwCODE9u1adD8=
 			</data>
 		</dict>
 		<key>Record.storyboardc/Info.plist</key>
@@ -639,66 +643,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcUhFfGLgBo1cE4i9XZ9RoPRz0o=
+			/MINtpmJ7B9fLWChvfdtnt74zSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HC5vX4gdOfrr5dzAOzoQNuFbGoK7hisjMz6CT8eb0BE=
+			OVZOyxyNFBn54VCgkrzc/dpHvfin/tWKv5Sh42W5a4w=
 			</data>
 		</dict>
 		<key>Record.storyboardc/MoviePlayerViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			terwvb8eoUXAkBpVYaWpoTe0c6o=
+			ONSHx4ZBMpUWEZm0Qc9V7dfc+as=
 			</data>
 			<key>hash2</key>
 			<data>
-			+qXaSCBxAmDXmixNG9Kaqw+flS0k+WR/aDNG27cjbnY=
+			XayCneTmOfNSUG6YdJZt+H/tzrFtO+qmB+X5sC666zI=
 			</data>
 		</dict>
 		<key>Record.storyboardc/PhotoViewerViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mdWC8B0IIzAZzBJ3XPbneT0uIyU=
+			//UWiEWk+td8NWF3PZYgk6jlXIg=
 			</data>
 			<key>hash2</key>
 			<data>
-			c9NbiS2vcSpHhp45crp3ZmevWcE+dHuar36bWVnOAZ4=
+			GU4FjJwCDmSgRwAzJx1nPNTfzTTIpGVF3OQizfbw344=
 			</data>
 		</dict>
 		<key>Record.storyboardc/PhotoViewerViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5N4ZToTVIcYX6Un+hvOn6gQsCis=
+			D12sOPthY0LYp2i8ac6l1TbzFOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			8g/WrzFTAWlpl1JtEEpZ4rNuG2h5qZJMKFQf52MMDdo=
+			QOae84C2UFxmENs26W7eDjAO5qTGx7VdCDUt3/8v4QE=
 			</data>
 		</dict>
 		<key>Record.storyboardc/cap-aL-DuL-view-j02-Vf-TG7.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ccWJoOeJ4xjcjv8fAwQ7wsxZPIU=
+			9PW3dekxtKp64G78g3/ZR6qFszk=
 			</data>
 			<key>hash2</key>
 			<data>
-			AqmrDg1I960eHYtAR20KdHI/fK+GnuGuxwsV2djinBw=
+			1ntMBXATalbFfe7OHxBI/kvODJ/h1v4kM8piEF7e4Bs=
 			</data>
 		</dict>
 		<key>Record.storyboardc/cap-aL-DuL-view-j02-Vf-TG7.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LyT7HNRB6a0wdPTcoLzKuY/OYQ0=
+			7knSNDWZi4TnTleKtXktYmZle4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zs7eKcB5XrW/5VpzX1YNX17S4dgmFT29OOquQ3TE0bw=
+			owC7M98qtyNnMLOqRnBe4oofX15dW7galey8i7eL8wg=
+			</data>
+		</dict>
+		<key>museosans-700.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qyt7/6ZzXgKYLFR3OdPnytnxbGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dio+Ii3Bm9cKvzSl+EMrUJ4zjT3lNMkXrvCy6A339Vk=
 			</data>
 		</dict>
 	</dict>

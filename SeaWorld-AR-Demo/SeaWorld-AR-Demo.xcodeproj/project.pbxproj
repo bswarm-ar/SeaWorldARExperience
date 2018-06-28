@@ -376,6 +376,7 @@
 			baseConfigurationReference = 38F31D7E87EDDFFAFFA6803F /* Pods-SeaWorld-AR-Demo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				BITCODE_GENERATION_MODE = bitcode;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DFA43C329P;
@@ -395,6 +396,7 @@
 			baseConfigurationReference = 6F16FE31BB42E6AFD38C98E3 /* Pods-SeaWorld-AR-Demo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				BITCODE_GENERATION_MODE = bitcode;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DFA43C329P;

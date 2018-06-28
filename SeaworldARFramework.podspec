@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SeaworldARFramework'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'SeaworldARFramework'
 
   s.homepage         = 'https://github.com/papercloud/SeaWorldARExperience'

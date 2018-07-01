@@ -9,7 +9,7 @@ Simply add the following lines to your podfile
 ```
 pod 'SCNVideoWriter', :git => 'https://github.com/Papercloud/SCNVideoWriter.git'
 pod 'Spine', :git => 'https://github.com/json-api-ios/Spine.git'
-pod 'SeaworldARFramework', :git => 'https://github.com/Papercloud/SeaWorldARExperience.git'
+pod 'SeaworldARFramework', :git => 'https://github.com/bswarm-ar/SeaWorldARExperience.git'
 ```
 
 ## Syncing animations
@@ -85,3 +85,10 @@ this will result in a completion being called with a local url of the video save
 
 You can also check if its currently recording using the flag `isRecording`
 
+## Animal Facts and thumbnails
+
+Animal facts and thumbnails can be found on the `RemoteAnimation` fetched from the networkController.
+
+On each RemoteAnimation is a `ThumbnailWrapper` this provides an easy way for you to grab each of the thumbnails that have been created.
+
+`animalDetails` is a `[String : Any]?` variable created from the JSON file you have given us. 

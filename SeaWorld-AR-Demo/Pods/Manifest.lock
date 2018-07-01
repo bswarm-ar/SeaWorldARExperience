@@ -11,7 +11,7 @@ PODS:
   - NYTPhotoViewer/Core (2.0.0)
   - Result (3.2.4)
   - SCNVideoWriter (0.5.0)
-  - SeaworldARFramework (1.0.0):
+  - SeaworldARFramework (1.0.2):
     - NYTPhotoViewer
     - Result
     - SCNVideoWriter
@@ -21,7 +21,7 @@ PODS:
     - BrightFutures
     - SwiftyJSON
   - SSZipArchive (1.6.2)
-  - SwiftyJSON (4.0.0)
+  - SwiftyJSON (4.1.0)
 
 DEPENDENCIES:
   - SCNVideoWriter (from `https://github.com/Papercloud/SCNVideoWriter.git`)
@@ -41,7 +41,7 @@ CHECKOUT OPTIONS:
     :commit: 7709067b1bfd866e0fc9d02949c70370501594f0
     :git: https://github.com/Papercloud/SCNVideoWriter.git
   SeaworldARFramework:
-    :commit: f53b9e1a5f79513dee90d323adb7772c140424bd
+    :commit: 169ada8135130598202acb95b880c3edda9a82b0
     :git: https://github.com/bswarm-ar/SeaWorldARExperience.git
   Spine:
     :commit: 0eea26afba5f4b53c25e27123f68a4584000974a
@@ -53,10 +53,10 @@ SPEC CHECKSUMS:
   NYTPhotoViewer: 34b8bd6bcc297466adec1668f9a01249d73c90e6
   Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
   SCNVideoWriter: cc277dde2b4cc905d06f0a262f1f50b777e7a32d
-  SeaworldARFramework: 1a84c62e4e9b063cd48b8ae8b1a6f339ee51faf7
+  SeaworldARFramework: 1bebd5bb3048cbc86fbeb6a7899de868767b3f29
   Spine: b6cd2409c852db86c6c446c5777690183499764f
   SSZipArchive: 428eb1ac8d37dd133404d30f422b23958c1f9acc
-  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
 
 PODFILE CHECKSUM: ada1ebd75515c2a5f44cd9d6db5a899262e8b653
 
